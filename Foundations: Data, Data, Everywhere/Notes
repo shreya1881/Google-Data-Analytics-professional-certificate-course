@@ -23,3 +23,17 @@ Ask, Prepare, Process, Analyze, Share, Act.
    Data analysis is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed 
    decision-making. Data analytics in the simplest terms is the science of data. It's a very broad concept that encompasses everything from the job of 
    managing and using data to the tools and methods that data workers use each and every day.
+
+-> EMC Corporation's data analytics life cycle is cyclical with six steps:
+
+Discovery
+
+Pre-processing data
+
+Model planning
+
+Model building
+
+Communicate results
+
+Operationalize

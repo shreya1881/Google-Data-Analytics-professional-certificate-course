@@ -26,14 +26,30 @@ Ask, Prepare, Process, Analyze, Share, Act.
 
 -> EMC Corporation's data analytics life cycle is cyclical with six steps:
 
-Discovery
+   Discovery
 
-Pre-processing data
+   Pre-processing data
 
-Model planning
+   Model planning
 
-Model building
+   Model building
 
-Communicate results
+   Communicate results
 
-Operationalize
+   Operationalize
+
+-> An iterative life cycle was created by a company called SAS, a leading data analytics solutions provider. It can be used to produce repeatable, reliable, and predictive results: 
+
+   Ask
+
+   Prepare
+
+   Explore
+
+   Model
+
+   Implement
+
+   Act
+
+   Evaluate

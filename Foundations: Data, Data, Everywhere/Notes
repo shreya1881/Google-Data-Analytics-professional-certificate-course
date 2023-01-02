@@ -53,3 +53,35 @@ Ask, Prepare, Process, Analyze, Share, Act.
    Act
 
    Evaluate
+   
+-> A project-based data analytics life cycle has five simple steps:
+
+   Identifying the problem
+
+   Designing data requirements
+
+   Pre-processing data
+
+   Performing data analysis
+
+   Visualizing data
+ 
+-> Authors Thomas Erl, Wajid Khattak, and Paul Buhler proposed a big data analytics life cycle in their book, Big Data Fundamentals: Concepts, Drivers & Techniques. Their life cycle suggests phases divided into nine steps:
+
+   Business case evaluation
+
+   Data identification
+
+   Data acquisition and filtering
+
+   Data extraction
+
+   Data validation and cleaning 
+
+   Data aggregation and representation
+
+   Data analysis
+
+   Data visualization
+
+   Utilization of analysis results

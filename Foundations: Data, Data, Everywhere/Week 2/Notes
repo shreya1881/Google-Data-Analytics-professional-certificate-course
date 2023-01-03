@@ -51,6 +51,14 @@
     A simple way to wrap your head around root causes is with the process called the Five Whys. In the Five Whys you ask "why" five times to reveal the root cause. 
     The fifth and final answer should give you some useful and sometimes surprising insights. Example: BLueberry/Mulberry.
     
+-> Another question commonly asked by data analysts is, where are the gaps in our process? For this, many people will use something called gap analysis. 
+
+   Gap analysis lets you examine and evaluate how a process works currently in order to get where you want to be in the future. Businesses conduct gap analysis 
+   to do all kinds of things, such as improve a product or become more efficient. The general approach to gap analysis is understanding where you are now 
+   compared to where you want to be. Then you can identify the gaps that exist between the current and future state and determine how to bridge them.
+   
+-> 
+    
     
    
    

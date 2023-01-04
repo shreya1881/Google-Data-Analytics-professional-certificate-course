@@ -2,3 +2,10 @@ MASTERING SPREADSHEETS BASICS
 
 -> Introduced to the basic terms: Cell, COlumn, Row
 -> Cell is defined by column alphabet followed by number. Example: A3, D2 etc.
+
+-> For Example: you are writing your name in a cell and the name does not fit completely, You can drag the column to adjust its width by the right edge. You can also
+   use the text wrap option where in you select the column, then go to format and go to text wrap. There are three options: Overfit, Wrap, Clip.
+   Overfit is default- it wont show the entire word.
+   Wrap will automatically adjust the column width according to the length of the word.
+   The clip option will cut off the text in the cell so only the text that fits is visible.
+   

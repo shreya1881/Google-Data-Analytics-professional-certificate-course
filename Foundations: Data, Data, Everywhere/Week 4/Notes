@@ -30,3 +30,6 @@ SQL: STRUCTURED QUERY LANGUAGE
 
 -> A query is a request for data or information from a database. With this query, we can select specific data from the table and filter the data based on
    certain conditions.
+
+-> Every programming language, including SQL, follows a unique set of guidelines known as syntax. Syntax is the predetermined structure of a language that
+   includes all required words, symbols, and punctuation, as well as their proper placement. 

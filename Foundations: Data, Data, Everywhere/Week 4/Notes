@@ -33,3 +33,11 @@ SQL: STRUCTURED QUERY LANGUAGE
 
 -> Every programming language, including SQL, follows a unique set of guidelines known as syntax. Syntax is the predetermined structure of a language that
    includes all required words, symbols, and punctuation, as well as their proper placement. 
+   
+-> The syntax of every SQL query is the same: 
+
+   Use SELECT to choose the columns you want to return.
+
+   Use FROM to choose the tables where the columns you want are located.
+
+   Use WHERE to filter for certain information.

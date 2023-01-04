@@ -27,3 +27,6 @@ MASTERING SPREADSHEETS BASICS
 SQL: STRUCTURED QUERY LANGUAGE
 
 -> SQL can do lots of the same things with data that spreadsheets can do. You can use it to store, organize and analyze your data, among other things.
+
+-> A query is a request for data or information from a database. With this query, we can select specific data from the table and filter the data based on
+   certain conditions.

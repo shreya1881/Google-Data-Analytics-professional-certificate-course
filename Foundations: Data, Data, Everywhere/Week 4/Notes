@@ -13,3 +13,4 @@ MASTERING SPREADSHEETS BASICS
    These column labels are usually called attributes. An attribute is a characteristic or quality of data used to label a column in a table.
    More commonly, attributes are referred to as column names, column labels, headers, or the header row. 
    
+-> In a dataset, a row is also called an observation. An observation includes all of the attributes for something contained in a row of a data table.

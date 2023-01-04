@@ -123,3 +123,7 @@ Plan, Capture, Manage, Analyze, Archive and Destroy.
     points that could skew the information. After that, you'll learn how to check the data you prepare to make sure it's complete and correct. 
     This phase is all about getting the details right. So you'll also fix typos, inconsistencies, or missing and inaccurate data. To top it off, you'll gain 
     strategies for verifying and sharing your data cleansing with stakeholders. 
+    
+ -> Analyze: Analyzing the data you've collected involves using tools to transform and organize that information so that you can draw useful conclusions, 
+ make predictions, and drive informed decision-making. There are lots of powerful tools data analysts use in their work and in this course you'll learn 
+ about two of them, spreadsheets and structured query language, or SQL, which is often pronounced "sequel."

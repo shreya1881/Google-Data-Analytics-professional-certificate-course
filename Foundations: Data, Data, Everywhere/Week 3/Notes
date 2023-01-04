@@ -118,4 +118,8 @@ Plan, Capture, Manage, Analyze, Archive and Destroy.
     identify which kinds of data are most useful for solving a particular problem. You'll also discover why it's so important that your data and results are
     objective and unbiased.
     
- -> 
+ -> Process step: Here, data analysts find and eliminate any errors and inaccuracies that can get in the way of results. This usually means cleaning data, 
+    transforming it into a more useful format, combining two or more datasets to make information more complete and removing outliers, which are any data 
+    points that could skew the information. After that, you'll learn how to check the data you prepare to make sure it's complete and correct. 
+    This phase is all about getting the details right. So you'll also fix typos, inconsistencies, or missing and inaccurate data. To top it off, you'll gain 
+    strategies for verifying and sharing your data cleansing with stakeholders. 

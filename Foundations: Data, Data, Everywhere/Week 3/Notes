@@ -125,5 +125,8 @@ Plan, Capture, Manage, Analyze, Archive and Destroy.
     strategies for verifying and sharing your data cleansing with stakeholders. 
     
  -> Analyze: Analyzing the data you've collected involves using tools to transform and organize that information so that you can draw useful conclusions, 
- make predictions, and drive informed decision-making. There are lots of powerful tools data analysts use in their work and in this course you'll learn 
- about two of them, spreadsheets and structured query language, or SQL, which is often pronounced "sequel."
+    make predictions, and drive informed decision-making. There are lots of powerful tools data analysts use in their work and in this course you'll learn 
+    about two of them, spreadsheets and structured query language, or SQL, which is often pronounced "sequel."
+ 
+ -> Share phase: Here you'll learn how data analysts interpret results and share them with others to help stakeholders make effective data-driven decisions. 
+    In the share phase, visualization is a data analyst's best friend.

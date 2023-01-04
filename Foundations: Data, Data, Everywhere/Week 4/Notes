@@ -45,3 +45,9 @@ SQL: STRUCTURED QUERY LANGUAGE
 -> You can also make it easier on yourself by assigning a new name or alias to the column or table names to make them easier to work with (and avoid the need for 
    comments). This is done with a SQL AS clause. In the example below, the alias last_name has been assigned to field1 and the alias customers assigned to table. 
    These aliases are good for the duration of the query only. An alias doesn’t change the actual name of a column or table in the database.
+   
+-> STEPS TO PLAN A DATA VISUALIZATION:
+
+   1. Explore the data for patterns.
+   2. Plan your visuals.
+   3. Create your visuals.

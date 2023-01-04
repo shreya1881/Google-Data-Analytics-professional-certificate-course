@@ -20,3 +20,6 @@ MASTERING SPREADSHEETS BASICS
    us choose how to organize the column. Next, we'll choose A to Z, which will organize our numbers in order from smallest to largest. Now, we want to watch out 
    for header row, which is the word siblings, the attribute for this column. We'll check this box. This makes sure the word siblings stays in place. 
    Now we're ready to sort. Voila, we just reorganized our data by sorting it from the smallest number to the largest.
+   
+-> Formulas are like a calculator, but more powerful. A formula is a set of instructions that performs a specific action using the data in a spreadsheet. 
+   To do this, the formula uses cell references for the values it's calculating.

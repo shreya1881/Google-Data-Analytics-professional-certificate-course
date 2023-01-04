@@ -100,4 +100,15 @@ Plan, Capture, Manage, Analyze, Archive and Destroy.
     
  DETAILED EXPLANATION OF DATA ANALYTICS PROCESS - ASK, PREPARE, PROCESS, ANALYZE, SHARE, ACT
  
- -> 
+ -> Ask phase: In this phase, we do two things. We define the problem to be solved and we make sure that we fully understand stakeholder expectations. 
+    Stakeholders hold a stake in the project. They are people who have invested time and resources into a project and are interested in the outcome. 
+    Let's break that down. 
+    First, defining a problem means you look at the current state and identify how it's different from the ideal state. Usually there's an obstacle we need to 
+    get rid of or something wrong that needs to be fixed. For instance, a sports arena might want to reduce the time fans spend waiting in the ticket line.
+    The obstacle is figuring out how to get the customers to their seats more quickly. 
+    Another important part of the ask phase is understanding stakeholder expectations. The first step here is to determine who the stakeholders are. That may 
+    include your manager, an executive sponsor, or your sales partners. There can be lots of stakeholders. But what they all have in common is that they help 
+    make decisions, influence actions and strategies, and have specific goals they want to meet. They also care about the project and that's why it's so important 
+    to understand their expectations. Communicating with your stakeholders is key in making sure you stay engaged and on track throughout the project. So as a 
+    data analyst, developing strong communication strategies is very important. This part of the ask phase helps you keep focused on the problem itself, not 
+    just its symptoms. 

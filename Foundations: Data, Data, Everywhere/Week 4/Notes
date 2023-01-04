@@ -9,3 +9,7 @@ MASTERING SPREADSHEETS BASICS
    Wrap will automatically adjust the column width according to the length of the word.
    The clip option will cut off the text in the cell so only the text that fits is visible.
    
+-> One should always label the columns. Adding labels to the top of the columns will make it easier to reference and find data later on when you're doing analysis. 
+   These column labels are usually called attributes. An attribute is a characteristic or quality of data used to label a column in a table.
+   More commonly, attributes are referred to as column names, column labels, headers, or the header row. 
+   

@@ -23,3 +23,7 @@ MASTERING SPREADSHEETS BASICS
    
 -> Formulas are like a calculator, but more powerful. A formula is a set of instructions that performs a specific action using the data in a spreadsheet. 
    To do this, the formula uses cell references for the values it's calculating.
+
+SQL: STRUCTURED QUERY LANGUAGE
+
+-> SQL can do lots of the same things with data that spreadsheets can do. You can use it to store, organize and analyze your data, among other things.

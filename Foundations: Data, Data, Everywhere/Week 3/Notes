@@ -1,1 +1,14 @@
+LIFE CYCLE OF DATA
 
+Plan, Capture, Manage, Analyze, Archive and Destroy.
+
+->  Planning: This actually happens well before starting an analysis project. During planning, a business decides what kind of data it needs, how it will be 
+    managed throughout its life cycle, who will be responsible for it, and the optimal outcomes.
+    
+    Capture data: This is where data is collected from a variety of different sources and brought into the organization. With so much data being created everyday, 
+    the ways to collect it are truly endless. 
+    One common method is getting data from outside resources.
+    Another way to get data is from a company's own documents and files, which are usually stored inside a database. A database is a collection of data stored in a 
+    computer system.
+    
+    manage. Here we're talking about how we care for our data, how and where it's stored, the tools used to keep it safe and secure, and the actions taken to make sure that it's maintained properly. This phase is very important to data cleansing, 

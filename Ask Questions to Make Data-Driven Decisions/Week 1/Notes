@@ -63,3 +63,22 @@ Questions to ask yourself in this step:
    What do I need to figure out how to solve this problem?
 
    What research do I need to do?
+   
+Step 3: Process
+Clean data is the best data and you will need to clean up your data to get rid of any possible errors, inaccuracies, or inconsistencies. This might mean:
+
+   Using spreadsheet functions to find incorrectly entered data 
+
+   Using SQL functions to check for extra spaces
+
+   Removing repeated entries
+
+   Checking as much as possible for bias in the data
+
+Questions to ask yourself in this step: 
+   What data errors or inaccuracies might get in my way of getting the best possible answer to the problem I am trying to solve?
+
+   How can I clean my data so the information I have is more consistent?
+
+
+

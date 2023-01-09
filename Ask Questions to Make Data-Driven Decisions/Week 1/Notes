@@ -181,4 +181,6 @@ Questions to ask yourself in this step:
    Minimizing downtime caused by machine failure is an example of a problem requiring analysts to find patterns in data. For example, by analyzing maintenance data,
    they might discover that most failures happen if regular maintenance is delayed by more than a 15-day window. 
    
+-> It is important that we ask the right questions. Effective questions follow the SMART methodology. 
+   
 

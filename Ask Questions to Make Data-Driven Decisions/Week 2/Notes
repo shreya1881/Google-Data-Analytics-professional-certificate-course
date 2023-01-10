@@ -71,6 +71,20 @@
       4. Select the visualizations you will use on the dashboard.
       5. Create filters as needed.
       
+-> SMALL DATA
+      1. Describes a data set made up of specific metrics over a short, well-defined time period
+      2. Usually organized and analyzed in spreadsheets
+      3. Likely to be used by small and midsize businesses
+      4. Simple to collect, store, manage, sort, and visually represent 
+      5. Usually already a manageable size for analysis
+   
+   BIG DATA
+      1. Describes large, less-specific data sets that cover a long time period
+      2. Usually kept in a database and queried
+      3. Likely to be used by large organizations
+      4. Takes a lot of effort to collect, store, manage, sort, and visually represent
+      5. Usually needs to be broken into smaller pieces in order to be organized and analyzed effectively for decision-making
+      
       
    
    

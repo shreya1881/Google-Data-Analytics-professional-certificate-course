@@ -60,7 +60,16 @@
    Metric goal is a measurable goal set by a company and evaluated using metrics. And just like there are a lot of possible metrics, there are lots of possible 
    goals too.
             
-            
+-> DASHBOARDS
+   Dashboards are powerful visual tools that help you tell your data story. A dashboard organizes information from multiple datasets into one central location,
+   offering huge time-savings. Data analysts use dashboards to track, analyze, and visualize data in order to answer questions and solve problems.
+   
+   Here is a process you can follow to create a dashboard:
+      1. Identify the stakeholders who need to see the data and how they will use it.
+      2. Design the dashboard (what should be displayed).
+      3. Create mock-ups if desired.
+      4. Select the visualizations you will use on the dashboard.
+      5. Create filters as needed.
       
       
    

@@ -30,6 +30,24 @@
             - Reports need regular maintenance and aren't very visually appealing. 
             - Because they aren't automatic or dynamic, reports don't show live, evolving data. 
             
+   DASHBOARDS
+      1. For a live reflection of incoming data, you'll want to design a dashboard. Dashboards are great for a lot of reasons:
+            - they give your team more access to information being recorded.
+            - you can interact through data by playing with filters.
+            - because they're dynamic, they have long-term value. 
+            - nice to look at.
+            - Dynamic, automatic and interactive.
+            - More stakeholder access.
+            - Low maintenance.
+      2. Dashboards do have some cons too:
+            - they take a lot of time to design and can actually be less efficient than reports, if they're not used very often.
+            - If the table breaks at any point, they need a lot of maintenance to get back up and running.
+            - Dashboards can sometimes overwhelm people with information too. If you aren't used to looking through data on a dashboard, you might get lost in it.
+            - Labour-intensive design.
+            - can be confusing.
+            - potentially uncleaned data.
+            
+            
       
       
    

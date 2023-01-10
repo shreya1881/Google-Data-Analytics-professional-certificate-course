@@ -21,8 +21,15 @@
    A dashboard on the other hand, monitors live, incoming data.
    
    REPORTS   
-      Reports are great for giving snapshots of high level historical data for an organization. For example, a finance firm's monthly sales. Reports come with a lot of 
-      benefits too.
+      1. Reports are great for giving snapshots of high level historical data for an organization. For example, a finance firm's monthly sales. Reports come with a lot of 
+         benefits too.
+      2. They can be designed and sent out periodically, often on a weekly or monthly basis, as organized and easy to reference information. 
+      3. They're quick to design and easy to use as long as you continually maintain them. 
+      4. Finally, because reports use static data or data that doesn't change once it's been recorded, they reflect data that's already been cleaned and sorted. 
+      5. There are some downsides to keep in mind too. 
+            - Reports need regular maintenance and aren't very visually appealing. 
+            - Because they aren't automatic or dynamic, reports don't show live, evolving data. 
+            
       
       
    

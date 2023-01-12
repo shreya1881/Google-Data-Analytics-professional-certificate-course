@@ -41,3 +41,5 @@
     3. #N/A : Data in a formula can't be found by the spreadaheet. Data doesnt exist. Occurs while using VLOOKUP mostly.
     
     4. #NAME? : A formula or function name is not understood. Occurs due to typos.
+    
+    5. #NUM! : A formula or function calculation cannot be performed as specified.

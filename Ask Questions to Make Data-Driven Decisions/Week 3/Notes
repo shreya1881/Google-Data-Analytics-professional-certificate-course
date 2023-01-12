@@ -12,3 +12,12 @@
       - Pivot Table: well organized and very useful tables. Sort and filter Data.
    2. Perform Calculations on your data or Calculate your data (Use formulas or functions).
          
+-> In Google Sheets, users have different access privileges. As owner of the sheet, you can choose the access level for your collaborators. Click Editor in the 
+   dropdown and choose the access level:
+
+   1. Can edit — collaborators can add and edit content or comments. Choose this access level if you want them to be able to make changes to your spreadsheet.
+
+   2. Can comment — collaborators can add comments, but can't edit content. Choose this level if you just want their feedback.
+
+   3. Can view — collaborators can view the file, but cannot edit or add comments. Choose this level if you want to share a spreadsheet as an optional resource and 
+      you don’t need feedback.         

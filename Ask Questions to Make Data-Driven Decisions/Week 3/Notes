@@ -43,3 +43,5 @@
     4. #NAME? : A formula or function name is not understood. Occurs due to typos.
     
     5. #NUM! : A formula or function calculation cannot be performed as specified.
+    
+    6. #VALUE! : A general error that could indicate a problem with a formula or referenced cells.

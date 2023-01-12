@@ -37,3 +37,5 @@
        
     2. #ERROR! : A formula can't be interpreted as input (also called parsing error).
       To fix: Insert delimiter.
+      
+    3. #N/A : Data in a formula can't be found by the spreadaheet. Data doesnt exist. Occurs while using VLOOKUP mostly.

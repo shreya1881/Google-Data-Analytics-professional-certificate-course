@@ -23,3 +23,9 @@
       you don’t need feedback.         
       
 -> Operators are symbols that name the type of operation or calculation to be performed. 
+
+->  A cell reference is a single cell or range of cells in a worksheet that can be used in a formula. Cell references contain the letter of the column and the number 
+    of the row where the data is. 
+    
+    A range of cells is a collection of two or more cells. A range can include cells from the same row or column, or from different columns and rows collected 
+    together. 

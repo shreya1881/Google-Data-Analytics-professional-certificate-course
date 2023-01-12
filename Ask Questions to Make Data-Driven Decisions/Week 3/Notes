@@ -39,3 +39,5 @@
       To fix: Insert delimiter.
       
     3. #N/A : Data in a formula can't be found by the spreadaheet. Data doesnt exist. Occurs while using VLOOKUP mostly.
+    
+    4. #NAME? : A formula or function name is not understood. Occurs due to typos.

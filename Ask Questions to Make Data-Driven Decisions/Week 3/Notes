@@ -29,3 +29,8 @@
     
     A range of cells is a collection of two or more cells. A range can include cells from the same row or column, or from different columns and rows collected 
     together. 
+ 
+ -> SPREADSHEET ERRORS AND FIXES
+     
+    1. #DIV/0! : A formula is trying to divide a value in a cell by 0 or by an ampty cell.
+       To fix use IFERROR(value, [value_if_error])

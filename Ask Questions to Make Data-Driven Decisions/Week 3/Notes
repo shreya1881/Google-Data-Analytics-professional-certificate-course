@@ -45,3 +45,5 @@
     5. #NUM! : A formula or function calculation cannot be performed as specified.
     
     6. #VALUE! : A general error that could indicate a problem with a formula or referenced cells.
+    
+    7. #REF! : A formula is referencing a cell that is no longer valid or has been deleted.

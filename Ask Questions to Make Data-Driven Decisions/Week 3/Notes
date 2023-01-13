@@ -47,3 +47,5 @@
     6. #VALUE! : A general error that could indicate a problem with a formula or referenced cells.
     
     7. #REF! : A formula is referencing a cell that is no longer valid or has been deleted.
+    
+ -> A function is a preset command that automatically performs a specific process or task using the data. 

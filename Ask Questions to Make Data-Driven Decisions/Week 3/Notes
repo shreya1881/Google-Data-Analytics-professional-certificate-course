@@ -85,3 +85,17 @@
    more valuable, as we generate diagnostic and predictive insights, like understanding why travel spend increased last month. Data is most valuable, however, 
    when we can generate prescriptive insights. For example, how can we leverage data to incentivize more efficient travel? Figuring out what data means, is just
    as important as collecting it. 
+   
+-> Context can turn raw data into meaningful information. It is very important for data analysts to contextualize their data. This means giving the data perspective by defining it. To do this, you need to identify:
+
+      Who: The person or organization that created, collected, and/or funded the data collection
+
+      What: The things in the world that data could have an impact on
+
+      Where: The origin of the data
+
+      When: The time when the data was created or collected
+
+      Why: The motivation behind the creation or collection
+
+      How: The method used to create or collect it

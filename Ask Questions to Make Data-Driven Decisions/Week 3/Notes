@@ -80,3 +80,8 @@
 -> Context is the condition in which something exists or happens.
 
 -> A data analyst considers who, what, when, where, why, and how in order to put information into the context.
+
+-> We use data at many different levels. Sometimes our data is descriptive, answering questions like, how much did we spend on travel last month? Data becomes 
+   more valuable, as we generate diagnostic and predictive insights, like understanding why travel spend increased last month. Data is most valuable, however, 
+   when we can generate prescriptive insights. For example, how can we leverage data to incentivize more efficient travel? Figuring out what data means, is just
+   as important as collecting it. 

@@ -115,3 +115,6 @@
    Language (UML) diagram. ERDs are a visual way to understand the relationship between entities in the data model. UML diagrams are very detailed diagrams that 
    describe the structure of a system by showing the system's entities, attributes, operations, and their relationships. As a junior data analyst, you will need 
    to understand that there are different data modeling techniques, but in practice, you will probably be using your organization’s existing technique. 
+   
+-> A data type is a specific kind of data attribute that tells what kind of value the data is. In other words, a data type tells you what kind of data you're 
+   working with. Data types can be different depending on the query language you're using. 

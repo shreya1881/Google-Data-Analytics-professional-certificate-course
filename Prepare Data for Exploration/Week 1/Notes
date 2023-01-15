@@ -141,3 +141,43 @@
    point that we want to observe. With this long data format, we can store and analyze all of this data using fewer columns. Plus, if we added a new variable, like 
    the average age of a population, we'd only need one more column. If we'd use a wide data format instead, we would have needed 10 more columns, one for each year.
    The long data format keeps everything nice and compact. 
+
+-> Data transformation is the process of changing the data’s format, structure, or values. As a data analyst, there is a good chance you will need to transform 
+   data at some point to make it easier for you to analyze it. 
+
+   Data transformation usually involves:
+
+      Adding, copying, or replicating data 
+
+      Deleting fields or records 
+
+      Standardizing the names of variables
+
+      Renaming, moving, or combining columns in a database
+
+      Joining one set of data with another
+
+      Saving a file in a different format. For example, saving a spreadsheet as a comma separated values (CSV) file.
+      
+-> Why transform data?
+   Goals for data transformation might be: 
+
+      Data organization: better organized data is easier to use
+
+      Data compatibility: different applications or systems can then use the same data
+
+      Data migration: data with matching formats can be moved from one system to another
+
+      Data merging: data with the same organization can be merged together
+
+      Data enhancement: data can be displayed with more detailed fields 
+
+      Data comparison: apples-to-apples comparisons of the data can then be made 
+      
+-> Wide data is preferred when :
+      Creating tables and charts with a few variables about each subject.
+      Comparing straightforward line graphs.
+
+   Long data is preferred when :
+      Storing a lot of variables about each subject. For example, 60 years worth of interest rates for each bank.
+      Performing advanced statistical analysis or graphing.

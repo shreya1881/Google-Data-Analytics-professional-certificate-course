@@ -125,3 +125,11 @@
       3. Boolean
 
 -> In spreadsheets, Rows = Records, Columns = Fields.
+
+-> With wide data, every data subject has a single row with multiple columns to hold the values of various attributes of the subject. Here's some wide data in a 
+   spreadsheet. You might remember we discussed this data about the population of Latin and Caribbean countries earlier. For this data set, each row provides all 
+   of the population information about one country. Each column shows the population for a different year.
+   Wide data lets you easily identify and quickly compare different columns. In our example, the data is arranged alphabetically by country, so you can compare the 
+   annual populations of Antigua and Barbuda, Aruba, and the Bahamas by just checking out the values in each column. The wide data format also makes it easy to find
+   and compare the countries' populations at different periods of time. For example, by sorting the data, we discover that Brazil had the highest population of all 
+   countries in 2010, and the British Virgin Islands had the lowest population of all countries in 2013.

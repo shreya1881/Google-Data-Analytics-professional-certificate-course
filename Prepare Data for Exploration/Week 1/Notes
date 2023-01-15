@@ -41,3 +41,10 @@
          are stars and points. When partial measurements (half-stars or quarter-points) aren't allowed, the data is discrete. If you don't accept anything other 
          than full stars or points, the data is considered discrete.
       2. Continuous data : It can be measured using a timer, and its value can be shown as a decimal with several places.
+
+-> Qualitative data can be broken down into:
+      1. Nominal Data: Nominal data is a type of qualitative data that's categorized without a set order. In other words, this data doesn't have a sequence. 
+         Here's a quick example. Let's say you're collecting data about movies. You ask people if they've watched a given movie. Their responses would be in 
+         the form of nominal data. They could respond "Yes," "No," or "Not sure." These choices don't have a particular order.
+      2. Ordinal data, on the other hand, is a type of qualitative data with a set order or scale. If you asked a group of people to rank a movie from 1 to 5, 
+         some might rank it as a 2, others a 4, and so on. These rankings are in order of how much each person liked the movie.

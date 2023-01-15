@@ -35,3 +35,9 @@
 -> Qualitative data : it can't be counted, measured, or easily expressed using numbers. Qualitative data is usually listed as a name, category, or description. 
 
    Quantitative data : which can be measured or counted and then expressed as a number. This is data with a certain quantity, amount, or range.
+   
+-> Quantitative data can be broken down into discrete or continuous data. 
+      1. Discrete Data: data that's counted and has a limited number of values. Discrete data isn't limited to dollar amounts. Examples of other discrete data 
+         are stars and points. When partial measurements (half-stars or quarter-points) aren't allowed, the data is discrete. If you don't accept anything other 
+         than full stars or points, the data is considered discrete.
+      2. Continuous data : It can be measured using a timer, and its value can be shown as a decimal with several places.

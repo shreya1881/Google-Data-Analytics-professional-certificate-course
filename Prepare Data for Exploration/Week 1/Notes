@@ -118,3 +118,8 @@
    
 -> A data type is a specific kind of data attribute that tells what kind of value the data is. In other words, a data type tells you what kind of data you're 
    working with. Data types can be different depending on the query language you're using. 
+   
+-> DATA TYPES IN SPREADSHEETS
+      1. Number
+      2. Text or String
+      3. Boolean

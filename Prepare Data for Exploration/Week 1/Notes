@@ -52,7 +52,13 @@
 -> Internal data, which is data that lives within a company's own systems. For example, if a movie studio had compiled all of the data in the spreadsheet using 
    only their own collection methods, then it would be their internal data. The great thing about internal data is that it's usually more reliable and easier to
    collect.
-   External data is, you guessed it, data that lives and is generated outside of an organization. External data becomes particularly valuable when your analysis 
-   depends on as many sources as possible. A great thing about this data is that it's structured. Structured data is data that's organized in a certain format, 
-   such as rows and columns. Spreadsheets and relational databases are two examples of software that can store data in a structured way.
    
+   External data is, you guessed it, data that lives and is generated outside of an organization. External data becomes particularly valuable when your analysis 
+   depends on as many sources as possible. A great thing about this data is that it's structured. 
+   
+   Structured data is data that's organized in a certain format, such as rows and columns. Spreadsheets and relational databases are two examples of software that 
+   can store data in a structured way.
+   
+   Unstructured data. This is data that is not organized in any easily identifiable manner. Audio and video files are examples of unstructured data because there's 
+   no clear way to identify or organize their content. Unstructured data might have internal structure, but the data doesn't fit neatly in rows and columns like 
+   structured data.

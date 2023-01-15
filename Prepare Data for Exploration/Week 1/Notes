@@ -70,3 +70,22 @@
    In addition to working well within data models, structured data is also useful for databases. This makes it easy for analysts to enter, query, and analyze the 
    data whenever they need to. This also helps make data visualization pretty easy because structured data can be applied directly to charts, graphs, heat maps, 
    dashboards and most other visual representations of data.
+   
+-> STRUCTURED DATA
+      1. Defined data types.
+      2. Most often quantitative.
+      3. Easy to organize.
+      4. Easy to search.
+      5. Easy to analyze.
+      6. Stored in relational databases and data warehouses.
+      7. Contained in rows and columns.
+      8. Example: Excel, Google sheets, SQL, customer data, phone records, transaction history etc.
+      
+-> UNSTRUCTURED DATA
+      1. Varied data types.
+      2. Most often qualitative data.
+      3. Difficult to search.
+      4. Provides more freedom for analysis.
+      5. Stored in datalakes, data warehouses and NoSQL database.
+      6. Cant be put into rows and columns.
+      7. Example: Test msg, phone call transcriptions, social media comments, various log files, images, audio, video.

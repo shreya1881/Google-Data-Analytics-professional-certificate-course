@@ -44,3 +44,20 @@
    
    When you're choosing a data source, think about three things. Who created the data set? Is it part of a credible organization? When was the data last refreshed? 
    If you have original data from a reliable organization and it's comprehensive, current, and cited, it ROCCCs!
+   
+-> Bad data sources that don't follow ROCCC. They're not reliable, original, comprehensive, current or cited. Even worse, they could be flat-out wrong or 
+   filled with human error. We'll start again with R. R is for not reliable. Bad data can't be trusted because it's inaccurate, incomplete, or biased. 
+   This could be data that has sample selection bias because it doesn't reflect the overall population. Or it could be data visualizations and graphs that 
+   are just misleading.
+   
+   O is for not original. If you can't locate the original data source and you're just relying on second or third party information, that can signal you may need 
+   to be extra careful in understanding your data.
+   
+   Now, C is for not comprehensive. Bad data sources are missing important information needed to answer the question or find the solution. What's worse, they may 
+   contain human error, too.
+   
+   The next C is for not current. Bad data sources are out of date and irrelevant. Many respected sources refresh their data regularly, giving you confidence 
+   that it's the most current info available. 
+   
+   The last C is for not cited. If your source hasn't been cited or vetted, it's a no-go. So to sum up, good data should be original data from a reliable
+   organization, comprehensive, current, and cited. It should ROCCC! Otherwise, it's bad data.

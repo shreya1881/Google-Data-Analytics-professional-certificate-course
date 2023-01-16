@@ -103,7 +103,24 @@
          our data, ability to give consent to use our data, and legal right to access our data. For companies, it means putting privacy measures in place to protect
          the individuals' data. 
          
-      6. The idea of openness, free access, usage, and sharing of data. 
+      6. The idea of openness, free access, usage, and sharing of data. Openness refers to free access, usage and sharing of data. Sometimes we refer to this as 
+         open data, but it doesn't mean we ignore the other aspects of data ethics we covered. We should still be transparent, respect privacy, and make sure we 
+         have consent for data that's owned by others. This just means we can access, use, and share that data if it meets these high standards. For example, there 
+         are standards around availability and access. Open data must be available as a whole, preferably by downloading over the Internet in a convenient and 
+         modifiable form. The website data.gov is a great example. 
+         
+         Another standard surrounds reuse and redistribution. Open data must be provided under terms that allow reuse and redistribution including the ability to 
+         use it with other datasets. And the last area is universal participation. Everyone must be able to use, reuse, and redistribute the data. There shouldn't 
+         be any discrimination against fields, persons, or groups. No one can place restrictions on the data like making it only available for use in a specific 
+         industry. 
+         
+         One of the biggest benefits of open data is that credible databases can be used more widely. More importantly, all of that good data can be leveraged, 
+         shared, and combined with other data. 
+         
+         A whole lot of resources are needed to make the technological shift to open data. Interoperability is key to open data's success. 
+         Interoperability is the ability of data systems and services to openly connect and share data. For example, data interoperability is important for 
+         health care information systems where multiple organizations such as hospitals, clinics, pharmacies, and laboratories need to access and share data to 
+         ensure patients get the care that they need.
 
 -> Data anonymization is the process of protecting people's private or sensitive data by eliminating that kind of information. Typically, data anonymization 
    involves blanking, hashing, or masking personal information, often by using fixed-length codes to represent data columns, or hiding data with altered values. 

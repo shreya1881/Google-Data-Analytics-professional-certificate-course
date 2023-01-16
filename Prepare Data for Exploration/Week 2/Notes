@@ -33,6 +33,7 @@
    be sure to validate it with the original source. 
    
    Time for the first C. C is for comprehensive. The best data sources contain all critical information needed to answer the question or find the solution. 
+   
    Think about it like this. You wouldn't want to work for a company just because you found one great online review about it. You'd research every aspect 
    of the organization to make sure it was the right fit. It's important to do the same for your data analysis. 
    
@@ -145,3 +146,11 @@
       Photographs
 
       Account numbers
+
+-> Openness refers to free access, usage, and sharing of data. But for data to be considered open, it has to:
+
+      Be available and accessible to the public as a complete dataset
+
+      Be provided under terms that allow it to be reused and redistributed
+
+      Allow universal participation so that anyone can use, reuse, and redistribute the data

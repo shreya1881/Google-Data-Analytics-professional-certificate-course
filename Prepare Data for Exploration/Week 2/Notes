@@ -104,3 +104,27 @@
          the individuals' data. 
          
       6. The idea of openness, free access, usage, and sharing of data. 
+
+-> Data anonymization is the process of protecting people's private or sensitive data by eliminating that kind of information. Typically, data anonymization 
+   involves blanking, hashing, or masking personal information, often by using fixed-length codes to represent data columns, or hiding data with altered values. 
+   
+   Data anonymization is used in just about every industry. That is why it is so important for data analysts to understand the basics. Here is a list of data that 
+   is often anonymized:
+
+      Telephone numbers
+
+      Names
+
+      License plates and license numbers
+
+      Social security numbers
+
+      IP addresses
+
+      Medical records
+
+      Email addresses
+
+      Photographs
+
+      Account numbers

@@ -70,3 +70,26 @@
    data privacy has been recognized by governments worldwide and they started creating data protection legislation to help protect people and their data. 
    
    The GDPR of the European Union was created to do just this.
+
+-> Data ethics tries to get to the root of the accountability companies have in protecting and responsibly using the data they collect. 
+   There are lots of different aspects of data ethics but we'll cover six: ownership, transaction transparency, consent, currency, privacy, and openness.
+   
+      1. First up is ownership. This answers the question who owns data? It isn't the organization that invested time and money collecting, storing, processing, 
+         and analyzing it. It's individuals who own the raw data they provide, and they have primary control over its usage, how it's processed and how it's shared. 
+         
+      2. Next, we have transaction transparency, which is the idea that all data processing activities and algorithms should be completely explainable and 
+         understood by the individual who provides their data. This is in response to concerns over data bias, which we discussed earlier, is a type of error that
+         systematically skews results in a certain direction. Biased outcomes can lead to negative consequences. To avoid them, it's helpful to provide 
+         transparent analysis especially to the people who share their data. This lets people judge whether the outcome is fair and unbiased and allows them to
+         raise potential concerns. 
+      
+      3. Now let's talk about another aspect of data ethics, consent. This is an individual's right to know explicit details about how and why their data will 
+         be used before agreeing to provide it. They should know answers to questions like why is the data being collected? How will it be used? How long will it 
+         be stored? The best way to give consent is probably a conversation between the person providing the data and the person requesting it. 
+         But with so much activity happening online these days, consent usually just looks like a terms and conditions checkbox with links to more details. 
+         Let's face it, not everyone clicks through to read those details. Consent is important because it prevents all populations from being unfairly 
+         targeted which is a very big deal for marginalized groups who are often disproportionately misrepresented by biased data. 
+         
+      4. Next, there's currency. Individuals should be aware of financial transactions resulting from the use of their personal data and the scale of these
+         transactions. If your data is helping to fund a company's efforts, you should know what those efforts are all about and be given the opportunity to
+         opt out. 

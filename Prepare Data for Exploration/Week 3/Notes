@@ -6,3 +6,9 @@
 
 -> A relational database is a database that contains a series of related tables that can be connected via their relationships. For two tables to have a relationship, 
    one or more of the same fields must exist inside both tables.
+
+-> There are two types of keys:
+      1. Primary Key: A primary key is an identifier that references a column in which each value is unique. You can think of it as a unique identifier for each row 
+         in a table. If you do decide to include a primary key, it should be unique, meaning no two rows can have the same primary key. It cannot be null or blank.
+      2. Foreign Key: A foreign key is a field within a table that's a primary key in another table. In other words, a foreign key is how one table can be connected to 
+         another.

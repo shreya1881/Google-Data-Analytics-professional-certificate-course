@@ -102,3 +102,19 @@
    and keep it in a common structure for everyone who may need to use it. Metadata repositories make it easier and faster to bring together multiple sources for 
    data analysis. They do this by describing the state and location of the metadata, the structure of the tables inside, and how data flows through the repository. 
    They even keep track of who accesses the metadata and when.
+
+-> Metadata is stored in a single, central location and it gives the company standardized information about all of its data. This is done in two ways. 
+   First, metadata includes information about where each system is located and where the data sets are located within those systems. 
+   Second, the metadata describes how all of the data is connected between the various systems. 
+   
+   Another important aspect of metadata is something called data governance. 
+   Data governance is a process to ensure the formal management of a company’s data assets. This gives an organization better control of their data and helps a
+   company manage issues related to data security and privacy, integrity, usability, and internal and external data flows. It's important to note that data 
+   governance is about more than just standardizing terminology and procedures. It's about the roles and responsibilities of the people who work with the 
+   metadata every day.
+   
+   These are metadata specialists, and they organize and maintain company data, ensuring that it's of the highest possible quality. These people create basic 
+   metadata identification and discovery information, describe the way different data sets work together, and explain the many different types of data resources. 
+   Metadata specialists also create very important standards that everyone follows and the models used to organize the data. There's one thing they all have in 
+   common. Whether they work at a tech company, a nonprofit association, or a financial institution, metadata analysts are great team players. They're passionate 
+   about making data accessible by sharing with colleagues and other stakeholders.

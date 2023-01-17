@@ -12,3 +12,10 @@
          in a table. If you do decide to include a primary key, it should be unique, meaning no two rows can have the same primary key. It cannot be null or blank.
       2. Foreign Key: A foreign key is a field within a table that's a primary key in another table. In other words, a foreign key is how one table can be connected to 
          another.
+
+-> A table can only have one primary key but it can have multiple foreign keys. 
+
+-> A primary key is used to ensure data in a specific column is unique. It uniquely identifies a record in a relational database table. Only one primary key is 
+   allowed in a table and they cannot contain null or blank values. 
+   And a foreign key is a column or group of columns in a relational database table that provides a link between the data and two tables. It refers to the field in a 
+   table that's the primary key of another table. Lastly, it's important to note that more than one foreign key is allowed to exist in a table.

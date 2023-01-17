@@ -23,3 +23,19 @@
 -> One more type of key is COMPOSITE KEY. Some tables don't require a primary key. For example, a revenue table can have multiple foreign keys and not have a primary 
    key. A primary key may also be constructed using multiple columns of a table. This type of primary key is called a composite key. For example, if customer_id and 
    location_id are two columns of a composite key for a customer table, the values assigned to those fields in any given row must be unique within the entire table.
+
+-> Metadata is information that's used to describe the data that's contained in something, like a photo or an email. Keep in mind that metadata is not the data 
+   itself. Instead, it's data about the data. In data analytics, metadata helps data analysts interpret the contents of the data within a database. That's why 
+   metadata is so important when working with databases. It tells an analyst what the data is all about. That makes it possible to put the data to work solving 
+   problems and making data-driven decisions. 
+
+-> There are three common types of metadata that you'll come across: descriptive, structural, and administrative.
+      1. Descriptive metadata is metadata that describes a piece of data and can be used to identify it at a later point in time. For instance, the descriptive 
+         metadata of a book in a library would include the code you see on its spine, known as a unique International Standard Book Number, also called the ISBN.
+         It would also include the book's author and title.
+      2. Structural metadata, which is metadata that indicates how a piece of data is organized and whether it's part of one or more than one data collection. 
+         Let's head back to the library. An example of structural data would be how the pages of a book are put together to create different chapters. 
+         It's important to note that structural metadata also keeps track of the relationship between two things. For example, it can show us that the
+         digital document of a book manuscript was actually the original version of a now printed book. 
+      3. Administrative metadata is metadata that indicates the technical source of a digital asset. When we looked at the metadata inside the photo, that was 
+         administrative metadata. It shows you the type of file it was, the date and time it was taken, and much more. 

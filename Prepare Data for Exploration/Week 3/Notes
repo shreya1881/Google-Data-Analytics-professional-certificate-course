@@ -170,3 +170,5 @@
 -> Sorting involves arranging data into a meaningful order to make it easier to understand, analyze, and visualize. Data can be sorted in ascending or descending 
    order, and alphabetically or numerically. Sorting can be done across all of a spreadsheet or just in a single column or table. You can also sort by 
    multiple variables.
+   
+   When you are sorting data it is always better to freeze the row first. For freezing, select the row, go to view then go to freeze and select 1 row.

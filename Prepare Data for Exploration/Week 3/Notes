@@ -3,3 +3,6 @@
 -> Metadata is data about data. Like I said: deep.
    Metadata is extremely important when working with databases. Think of it like a reference guide. Without the guide all you have is a bunch of data with no context
    explaining what it means. Metadata tells you where the data comes from, when and how it was created, and what it's all about.
+
+-> A relational database is a database that contains a series of related tables that can be connected via their relationships. For two tables to have a relationship, 
+   one or more of the same fields must exist inside both tables.

@@ -166,3 +166,7 @@
 
                Step 5: In most cases, accept the default settings in the previous step and click Load to load the data in the CSV file to the spreadsheet. 
                The data in the CSV file will be loaded into the spreadsheet, and you can begin working with the data.
+
+-> Sorting involves arranging data into a meaningful order to make it easier to understand, analyze, and visualize. Data can be sorted in ascending or descending 
+   order, and alphabetically or numerically. Sorting can be done across all of a spreadsheet or just in a single column or table. You can also sort by 
+   multiple variables.

@@ -91,3 +91,14 @@
          is important to always understand the full picture. It is not just about the data you are viewing, but how that data comes together. Metadata ensures that
          you are able to find, use, preserve, and reuse data in the future. Remember, it will be your responsibility to manage and make use of data in its entirety;
          metadata is as important as the data itself.
+
+-> BENEFITS OF METADATA:
+      1. Metadata creates a single source of truth by keeping things consistent and uniform. We data analysts love consistency. 
+      2. Metadata also makes data more reliable by making sure it's accurate, precise, relevant, and timely. 
+
+-> One of the ways data analysts make sure their data is consistent and reliable is by using something called a metadata repository. 
+   A metadata repository is a database specifically created to store metadata. Metadata repositories can be stored in a physical location, or they can be virtual, 
+   like data that exists in the cloud. These repositories describe where metadata came from, keep it in an accessible form so it can be used quickly and easily, 
+   and keep it in a common structure for everyone who may need to use it. Metadata repositories make it easier and faster to bring together multiple sources for 
+   data analysis. They do this by describing the state and location of the metadata, the structure of the tables inside, and how data flows through the repository. 
+   They even keep track of who accesses the metadata and when.

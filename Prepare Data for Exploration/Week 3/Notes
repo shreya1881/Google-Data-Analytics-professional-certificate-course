@@ -118,3 +118,51 @@
    Metadata specialists also create very important standards that everyone follows and the models used to organize the data. There's one thing they all have in 
    common. Whether they work at a tech company, a nonprofit association, or a financial institution, metadata analysts are great team players. They're passionate 
    about making data accessible by sharing with colleagues and other stakeholders.
+
+-> WAYS OF IMPORTING DATA FROM OTHER SPREADSHEETS:
+      1. GOOGLE SHEETS: In Google Sheets, you can use the IMPORTRANGE function. It enables you to specify a range of cells in the other spreadsheet to duplicate in 
+         the spreadsheet you are working in. You must allow access to the spreadsheet containing the data the first time you import the data.
+         
+      2. MICROSOFT EXCEL: To import data from another spreadsheet, do the following:  
+            Step 1: Select Data from the main menu.
+
+            Step 2: Click Get Data, select From File, and then select From Workbook.
+
+            Step 3: Browse for and select the spreadsheet file and then click Import.
+
+            Step 4: In the Navigator, select which worksheet to import.
+
+            Step 5: Click Load to import all the data in the worksheet; or click Transform Data to open the Power Query Editor to adjust the columns and rows of data you want to import.
+
+            Step 6: If you clicked Transform Data, click Close & Load and then select one of the two options:
+
+                     Close & Load - import the data to a new worksheet
+
+                     Close & Load to... - import the data to an existing worksheet 
+        
+        3. FROM CSV FILES: 
+            - Google Sheets:
+               Step 1: Open the File menu in your spreadsheet and select Import to open the Import file window. 
+
+               Step 2: Select Upload and then select the CSV file you want to import.
+
+               Step 3:  From here, you will have a few options. For Import location, you can choose to replace the current spreadsheet, create a new spreadsheet, 
+               insert the CSV data as a new sheet, add the data to the current spreadsheet, or replace the data in a specific cell. The data will be inserted as 
+               plain text only if you uncheck the Convert text to numbers, dates, and formulas checkbox, which is the default setting. Sometimes a CSV file uses a 
+               separator like a semi-colon or even a blank space instead of a comma. For Separator type, you can select Tab or Comma, or select Custom to enter 
+               another character that is being used as the separator. 
+
+               Step 4: Select Import data. The data in the CSV file will be loaded into your sheet, and you can begin using it!
+             
+             - Microsoft Excel:
+               Step 1: Open a new or existing spreadsheet
+
+               Step 2: Click Data in the main menu and select the From Text/CSV option.
+
+               Step 3: Browse for and select the CSV file and then click Import.
+
+               Step 4: From here, you will have a few options. You can change the delimiter from a comma to another character such as a semicolon. You can also 
+               turn automatic data type detection on or off. And, finally, you can transform your data by clicking Transform Data to open the Power Query Editor.
+
+               Step 5: In most cases, accept the default settings in the previous step and click Load to load the data in the CSV file to the spreadsheet. 
+               The data in the CSV file will be loaded into the spreadsheet, and you can begin working with the data.

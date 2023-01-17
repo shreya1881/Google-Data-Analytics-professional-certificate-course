@@ -38,4 +38,56 @@
          It's important to note that structural metadata also keeps track of the relationship between two things. For example, it can show us that the
          digital document of a book manuscript was actually the original version of a now printed book. 
       3. Administrative metadata is metadata that indicates the technical source of a digital asset. When we looked at the metadata inside the photo, that was 
-         administrative metadata. It shows you the type of file it was, the date and time it was taken, and much more. 
+         administrative metadata. It shows you the type of file it was, the date and time it was taken, and much more.
+
+-> Elements of metadata
+   Before looking at metadata examples, it is important to understand what type of information metadata typically provides.
+
+      1. Title and description
+         What is the name of the file or website you are examining? What type of content does it contain?
+
+      2. Tags and categories
+         What is the general overview of the data that you have? Is the data indexed or described in a specific way? 
+
+      3. Who created it and when
+         Where did the data come from, and when was it created? Is it recent, or has it existed for a long time?
+
+      4. Who last modified it and when
+         Were any changes made to the data?  If yes, were the modifications recent?
+
+      5. Who can access or update it
+         Is this dataset public? Are special permissions needed to customize or modify the dataset?
+
+-> Examples of metadata
+   In today’s digital world, metadata is everywhere, and it is becoming a more common practice to provide metadata on a lot of media and information you interact 
+   with. Here are some real-world examples of where to find metadata:
+
+      1. Photos
+         Whenever a photo is captured with a camera, metadata such as camera filename, date, time, and geolocation are gathered and saved with it.
+
+      2. Emails
+         When an email is sent or received, there is lots of visible metadata such as subject line, the sender, the recipient and date and time sent. There is 
+         also hidden metadata that includes server names, IP addresses, HTML format, and software details.
+
+      3. Spreadsheets and documents
+         Spreadsheets and documents are already filled with a considerable amount of data so it is no surprise that metadata would also accompany them. Titles, 
+         author, creation date, number of pages, user comments as well as names of tabs, tables, and columns are all metadata that one can find in spreadsheets and
+         documents. 
+
+      4. Websites
+         Every web page has a number of standard metadata fields, such as tags and categories, site creator’s name, web page title and description, time of 
+         creation and any iconography. 
+
+      5. Digital files
+         Usually, if you right click on any computer file, you will see its metadata. This could consist of file name, file size, date of creation and 
+         modification, and type of file. 
+
+      6. Books
+         Metadata is not only digital. Every book has a number of standard metadata on the covers and inside that will inform you of its title, author’s name, 
+         a table of contents, publisher information, copyright description, index, and a brief description of the book’s contents.
+
+      7. Data as you know it
+         Knowing the content and context of your data, as well as how it is structured, is very valuable in your career as a data analyst. When analyzing data, it 
+         is important to always understand the full picture. It is not just about the data you are viewing, but how that data comes together. Metadata ensures that
+         you are able to find, use, preserve, and reuse data in the future. Remember, it will be your responsibility to manage and make use of data in its entirety;
+         metadata is as important as the data itself.

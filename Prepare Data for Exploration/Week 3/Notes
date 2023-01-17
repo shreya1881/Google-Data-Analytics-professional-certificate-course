@@ -171,4 +171,8 @@
    order, and alphabetically or numerically. Sorting can be done across all of a spreadsheet or just in a single column or table. You can also sort by 
    multiple variables.
    
-   When you are sorting data it is always better to freeze the row first. For freezing, select the row, go to view then go to freeze and select 1 row.
+   When you are sorting data it is always better to freeze the header row first. For freezing, select the row, go to view then go to freeze and select 1 row.
+
+-> Sometimes data analysts want to isolate a particular piece of information. To do this, they use a filter. 
+   Filtering means showing only the data that meets a specific criteria while hiding the rest. A filter simplifies a spreadsheet by only showing us the 
+   information we need.

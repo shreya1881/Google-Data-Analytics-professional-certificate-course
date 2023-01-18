@@ -1,2 +1,13 @@
 -> Keeping your data organized is important for a few reasons; it makes it easier to find and use, helps you avoid making mistakes during your analysis and helps to 
-  protect it.
+   protect it.
+
+-> Naming conventions. These are consistent guidelines that describe the content, date, or version of a file in its name. Basically, this means you want to use 
+   logical and descriptive names for your files to make them easier to find and use. 
+
+-> There are two more things you'll want to consider when organizing data for work use. First, the project data you'll be using for work could be accessed and used 
+   by multiple people. It's important to align your naming and storage practices with your team to avoid any confusion. Your team might also develop metadata 
+   practices like creating a file that outlines project naming conventions for easy reference. 
+
+-> Secondly, you want to think about how often you're making copies of data and storing it in different places. Most importantly, because if data is stored in lots 
+   of different databases or spreadsheets, it can contradict itself and lead to mistakes later on. Also storing data in multiple places takes up a lot of space. 
+   Relational databases can help you avoid data duplication and store your data more efficiently.

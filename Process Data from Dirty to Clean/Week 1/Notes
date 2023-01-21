@@ -80,3 +80,5 @@
    12. Consistency
       The degree to which the data is repeatable from different points of entry or collection
       If a customer has the same address in the sales and repair databases, the data is consistent.
+
+-> Clean data + alignment to business objective = accurate conclusions

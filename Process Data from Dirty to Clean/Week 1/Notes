@@ -105,3 +105,28 @@
    underrepresented. 
    
 -> Random sampling is a way of selecting a sample from a population so that every possible type of the sample has an equal chance of being chosen. 
+
+-> 1. Population 
+      The entire group that you are interested in for your study. For example, if you are surveying people in your company, the population would be all the 
+      employees in your company.
+      
+   2. Sample 
+      A subset of your population. Just like a food sample, it is called a sample because it is only a taste. So if your company is too large to survey every 
+      individual, you can survey a representative sample of your population.
+   
+   3. Margin of error
+      Since a sample is used to represent a population, the sample’s results are expected to differ from what the result would have been if you had surveyed the
+      entire population. This difference is called the margin of error. The smaller the margin of error, the closer the results of the sample are to what the
+      result would have been if you had surveyed the entire population. 
+    
+   4. Confidence level
+      How confident you are in the survey results. For example, a 95% confidence level means that if you were to run the same survey 100 times, you would get 
+      similar results 95 of those 100 times. Confidence level is targeted before you start your study because it will affect how big your margin of error is at 
+      the end of your study. 
+   
+   5. Confidence interval
+      The range of possible values that the population’s result would be at the confidence level of the study. This range is the sample result +/- the margin of
+      error.
+   
+   6. Statistical significance
+      The determination of whether your result could be due to random chance or not. The greater the significance, the less due to chance.

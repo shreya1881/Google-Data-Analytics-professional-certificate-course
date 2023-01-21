@@ -130,3 +130,11 @@
    
    6. Statistical significance
       The determination of whether your result could be due to random chance or not. The greater the significance, the less due to chance.
+
+-> Increase the sample size to meet specific needs of your project:
+
+      1. For a higher confidence level, use a larger sample size
+
+      2. To decrease the margin of error, use a larger sample size
+
+      3. For greater statistical significance, use a larger sample size

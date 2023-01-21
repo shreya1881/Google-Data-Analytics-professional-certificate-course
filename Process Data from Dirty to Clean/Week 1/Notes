@@ -17,3 +17,17 @@
 -> The data manipulation process involves changing the data to make it more organized and easier to read. Data manipulation is meant to make the data analysis process 
    more efficient, but an error during the process can compromise the efficiency. Finally, data can also be compromised through human error, viruses, malware, hacking,
    and system failures, which can all lead to even more headaches.
+
+-> 1. Data replication compromising data integrity: Continuing with the example, imagine you ask your international counterparts to verify dates and stick to one 
+      format. One analyst copies a large dataset to check the dates. But because of memory issues, only part of the dataset is actually copied. The analyst would be
+      verifying and standardizing incomplete data. That partial dataset would be certified as compliant but the full dataset would still contain dates that weren't
+      verified. Two versions of a dataset can introduce inconsistent results. A final audit of results would be essential to reveal what happened and correct all
+      dates. 
+
+   2. Data transfer compromising data integrity: Another analyst checks the dates in a spreadsheet and chooses to import the validated and standardized data back to 
+      the database. But suppose the date field from the spreadsheet was incorrectly classified as a text field during the data import (transfer) process. Now some of 
+      the dates in the database are stored as text strings. At this point, the data needs to be cleaned to restore its integrity. 
+
+   3. Data manipulation compromising data integrity: When checking dates, another analyst notices what appears to be a duplicate record in the database and removes 
+      it. But it turns out that the analyst removed a unique record for a company’s subsidiary and not a duplicate record for the company. Your dataset is now missing 
+      data and the data must be restored for completeness.

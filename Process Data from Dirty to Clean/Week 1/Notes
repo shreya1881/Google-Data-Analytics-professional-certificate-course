@@ -153,3 +153,16 @@
 -> The confidence level is the probability that your sample accurately reflects the greater population. You can think of it the same way as confidence in anything
    else. It's how strongly you feel that you can rely on something or someone. Having a 99 percent confidence level is ideal. But most industries hope for at least
    a 90 or 95 percent confidence level. 
+
+-> A sample size calculator tells you how many people you need to interview (or things you need to test) to get results that represent the target population. Let’s review some terms you will come across when using a sample size calculator:
+
+      1. Confidence level: The probability that your sample size accurately reflects the greater population.
+
+      2. Margin of error: The maximum amount that the sample results are expected to differ from those of the actual population.
+
+      3. Population: This is the total number you hope to pull your sample from.
+
+      4. Sample: A part of a population that is representative of the population.
+
+      5. Estimated response rate: If you are running a survey of individuals, this is the percentage of people you expect will complete your survey out of those
+         who received the survey.    

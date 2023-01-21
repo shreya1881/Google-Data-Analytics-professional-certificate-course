@@ -82,3 +82,9 @@
       If a customer has the same address in the sales and repair databases, the data is consistent.
 
 -> Clean data + alignment to business objective = accurate conclusions
+
+-> TYPES OF INSUFFICIENT DATA:
+      1. Data from only one source
+      2. Data that keeps updating
+      3. Outdated data
+      4. Geographically limited data

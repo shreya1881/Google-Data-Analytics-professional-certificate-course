@@ -100,3 +100,8 @@
 -> SAMPLE SIZE: a part of a population that's representative of the population. The goal is to get enough information from a small group within a population to
    make predictions or conclusions about the whole population. The sample size helps ensure the degree to which you can be confident that your conclusions 
    accurately represent the population.
+
+-> Sampling bias is when a sample isn't representative of the population as a whole. This means some members of the population are being overrepresented or 
+   underrepresented. 
+   
+-> Random sampling is a way of selecting a sample from a population so that every possible type of the sample has an equal chance of being chosen. 

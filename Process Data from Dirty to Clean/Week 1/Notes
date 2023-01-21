@@ -1,5 +1,9 @@
 -> A strong analysis depends on the integrity of the data. If the data you're using is compromised in any way, your analysis won't be as strong as it should be.
 
-->  Data integrity is the accuracy, completeness, consistency, and trustworthiness of data throughout its lifecycle.
+-> Data integrity is the accuracy, completeness, consistency, and trustworthiness of data throughout its lifecycle.
 
--> 
+-> When data integrity is low, it can cause anything from the loss of a single pixel in an image to an incorrect medical decision. In some cases, one missing piece 
+   can make all of your data useless.
+
+-> Data integrity can be compromised in lots of different ways. There's a chance data can be compromised every time it's replicated, transferred, or manipulated in 
+   any way. 

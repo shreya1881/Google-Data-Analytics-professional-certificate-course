@@ -29,3 +29,15 @@
    assigning a certain length to this fields in your spreadsheet is a great way to avoid errors.
    
 -> Data validation is a tool for checking the accuracy and quality of data before adding or importing it. Data validation is a form of data cleaning.
+
+-> Validity
+   The concept of using data integrity principles to ensure measures conform to defined business rules or constraints.
+   
+   Accuracy
+   The degree of conformity of a measure to a standard or a true value.
+   
+   Completeness
+   The degree to which all required measures are known.
+   
+   Consistency
+   The degree to which a set of measures is equivalent across systems.

@@ -24,3 +24,8 @@
    5. Inconsistent data - Any data that uses different formats to represent the same thing.
 
 -> Misspelling, spelling variations, mixed up letters, inconsistent punctuation and typos in general, happen when someone types in a piece of data incorrectly.
+
+-> Field is a single piece of information from a row or column of a spreadsheet. Field length is a tool for determining how many characters can be keyed into a field,
+   assigning a certain length to this fields in your spreadsheet is a great way to avoid errors.
+   
+-> Data validation is a tool for checking the accuracy and quality of data before adding or importing it. Data validation is a form of data cleaning.

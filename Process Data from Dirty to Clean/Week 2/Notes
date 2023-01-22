@@ -12,3 +12,6 @@
    
    Data warehousing specialists develop processes and procedures to effectively store and organize data. They make sure that data is available, secure, and backed up 
    to prevent loss.
+
+-> Null is an indication that a value does not exist in a data set. Note that it's not the same as a zero. In the case of a survey, a null would mean the customers 
+   skipped that question. A zero would mean they provided zero as their response.

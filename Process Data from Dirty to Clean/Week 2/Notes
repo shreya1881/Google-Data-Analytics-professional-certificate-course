@@ -15,3 +15,10 @@
 
 -> Null is an indication that a value does not exist in a data set. Note that it's not the same as a zero. In the case of a survey, a null would mean the customers 
    skipped that question. A zero would mean they provided zero as their response.
+
+-> TYPES OF DIRTY DATA:
+   1. Duplicate data - Any data record that shows up more than once.
+   2. Outdated data - Any data that is old which should be replaced with newer and more accurate information.
+   3. Incomplete data - Any data that is missing important fields.
+   4. Incorrect/inaccurate data - Any data that is complete but inaccurate.
+   5. Inconsistent data - Any data that uses different formats to represent the same thing.

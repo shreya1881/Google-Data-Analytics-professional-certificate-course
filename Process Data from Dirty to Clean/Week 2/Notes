@@ -1,1 +1,8 @@
 -> Most common cause of poor quality data is human error.
+
+-> Dirty data is data that's incomplete, incorrect, or irrelevant to the problem you're trying to solve.
+   When you work with dirty data, you can't be sure that your results are correct. In fact, you can pretty much bet they won't be. Earlier, you learned that data 
+   integrity is critical to reliable data analytics results, and clean data helps you achieve data integrity.
+   
+-> Clean data is data that's complete, correct, and relevant to the problem you're trying to solve. When you work with clean data, you'll find that your projects go 
+   much more smoothly.

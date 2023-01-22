@@ -57,3 +57,9 @@
 -> Data merging is the process of combining two or more datasets into a single dataset. 
 
 -> In data analytics, compatibility describes how well two or more datasets are able to work together.
+
+-> FOUR QUESTIONS NEED TO BE ASKED:
+      1. Do I have all the data that I need?
+      2. Does the data I need exist in these datasets?
+      3. Does the data need to be cleaned or is it ready for me to use?
+      4. Are the datasets cleaned to the same standard?

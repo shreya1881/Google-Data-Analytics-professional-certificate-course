@@ -147,3 +147,8 @@
 -> A pivot table is a data summarization tool that is used in data processing.
    Pivot tables sort, reorganize, group, count, total or average data stored in the database. In data cleaning, pivot tables are used to give you a quick, 
    clutter- free view of your data. You can choose to look at the specific parts of the data set that you need to get a visual in the form of a pivot table.
+
+-> VLOOKUP stands for vertical lookup. It's a function that searches for a certain value in a column to return a corresponding piece of information. When data 
+   analysts look up information for a project, it's rare for all of the data they need to be in the same place. Usually, you'll have to search across multiple 
+   sheets or even different databases.
+   The syntax of the VLOOKUP is equals VLOOKUP, open parenthesis, then the data you want to look up. Next is a comma and where you want to look for that data.

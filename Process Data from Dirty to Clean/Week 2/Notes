@@ -140,3 +140,6 @@
 
 -> CONCATENATE, which is a function that joins together two or more text strings. The syntax is equals CONCATENATE, then an open parenthesis inside indicates each
    text string you want to join, separated by commas. Then finish the function with a closed parenthesis.
+
+-> TRIM is a function that removes leading, trailing, and repeated spaces in data. Sometimes when you import data, your cells have extra spaces, which can get 
+   in the way of your analysis.

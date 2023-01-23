@@ -122,3 +122,6 @@
 
 -> Split is a tool that divides a text string around the specified character and puts each fragment into a new and separate cell. Split is helpful when you have
    more than one piece of data in a cell and you want to separate them out. 
+
+-> COUNTIF is a function that returns the number of cells that match a specified value. Basically, it counts the number of times a value appears in a range of cells. 
+

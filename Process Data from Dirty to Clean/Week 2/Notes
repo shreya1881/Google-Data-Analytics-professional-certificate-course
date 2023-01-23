@@ -132,3 +132,6 @@
 
 -> LEN is a function that tells you the length of the text string by counting the number of characters it contains. This is useful when cleaning data if you have a
    certain piece of information in your spreadsheet that you know must contain a certain length.
+
+-> LEFT is a function that gives you a set number of characters from the left side of a text string. RIGHT is a function that gives you a set number of characters
+   from the right side of a text string. As a quick reminder, a text string is a group of characters within a cell, commonly composed of letters, numbers, or both.

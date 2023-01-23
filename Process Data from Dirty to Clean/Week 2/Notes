@@ -129,3 +129,6 @@
 
    The syntax of a COUNTIF function should be like this: Equals COUNTIF, open parenthesis, range, comma, the specified value in quotation marks and a closed 
    parenthesis. It will show up like this.
+
+-> LEN is a function that tells you the length of the text string by counting the number of characters it contains. This is useful when cleaning data if you have a
+   certain piece of information in your spreadsheet that you know must contain a certain length.

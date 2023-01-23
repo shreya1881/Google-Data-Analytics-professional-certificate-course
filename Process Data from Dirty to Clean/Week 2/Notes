@@ -152,3 +152,6 @@
    analysts look up information for a project, it's rare for all of the data they need to be in the same place. Usually, you'll have to search across multiple 
    sheets or even different databases.
    The syntax of the VLOOKUP is equals VLOOKUP, open parenthesis, then the data you want to look up. Next is a comma and where you want to look for that data.
+
+-> Data mapping is the process of matching fields from one database to another. This is very important to the success of data migration, data integration, and lots
+   of other data management activities.

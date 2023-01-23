@@ -137,3 +137,6 @@
    from the right side of a text string. As a quick reminder, a text string is a group of characters within a cell, commonly composed of letters, numbers, or both.
 
 -> MID is a function that gives you a segment from the middle of a text string. 
+
+-> CONCATENATE, which is a function that joins together two or more text strings. The syntax is equals CONCATENATE, then an open parenthesis inside indicates each
+   text string you want to join, separated by commas. Then finish the function with a closed parenthesis.

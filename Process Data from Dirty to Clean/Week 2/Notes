@@ -135,3 +135,5 @@
 
 -> LEFT is a function that gives you a set number of characters from the left side of a text string. RIGHT is a function that gives you a set number of characters
    from the right side of a text string. As a quick reminder, a text string is a group of characters within a cell, commonly composed of letters, numbers, or both.
+
+-> MID is a function that gives you a segment from the middle of a text string. 

@@ -155,3 +155,6 @@
 
 -> Data mapping is the process of matching fields from one database to another. This is very important to the success of data migration, data integration, and lots
    of other data management activities.
+
+-> A schema is a way of describing how something is organized. A primary key references a column in which each value is unique and a foreign key is a field within 
+   a table that is a primary key in another table.

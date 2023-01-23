@@ -125,3 +125,7 @@
 
 -> COUNTIF is a function that returns the number of cells that match a specified value. Basically, it counts the number of times a value appears in a range of cells. 
 
+-> Syntax is a predetermined structure that includes all required information and its proper placement. 
+
+   The syntax of a COUNTIF function should be like this: Equals COUNTIF, open parenthesis, range, comma, the specified value in quotation marks and a closed 
+   parenthesis. It will show up like this.

@@ -116,3 +116,6 @@
 -> Conditional formatting is a spreadsheet tool that changes how cells appear when values meet specific conditions.
 
 -> "Remove duplicates" is a tool that automatically searches for and eliminates duplicate entries from a spreadsheet.
+
+-> In data analytics, a text string is a group of characters within a cell, most often composed of letters. An important characteristic of a text string is its 
+   length, which is the number of characters in it.

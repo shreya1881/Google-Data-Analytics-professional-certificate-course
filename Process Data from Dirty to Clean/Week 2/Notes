@@ -143,3 +143,7 @@
 
 -> TRIM is a function that removes leading, trailing, and repeated spaces in data. Sometimes when you import data, your cells have extra spaces, which can get 
    in the way of your analysis.
+   
+-> A pivot table is a data summarization tool that is used in data processing.
+   Pivot tables sort, reorganize, group, count, total or average data stored in the database. In data cleaning, pivot tables are used to give you a quick, 
+   clutter- free view of your data. You can choose to look at the specific parts of the data set that you need to get a visual in the form of a pivot table.

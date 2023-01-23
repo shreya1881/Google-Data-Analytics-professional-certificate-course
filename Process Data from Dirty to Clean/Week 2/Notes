@@ -119,3 +119,6 @@
 
 -> In data analytics, a text string is a group of characters within a cell, most often composed of letters. An important characteristic of a text string is its 
    length, which is the number of characters in it.
+
+-> Split is a tool that divides a text string around the specified character and puts each fragment into a new and separate cell. Split is helpful when you have
+   more than one piece of data in a cell and you want to separate them out. 

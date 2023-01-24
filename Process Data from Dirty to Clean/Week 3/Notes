@@ -2,3 +2,17 @@
    amounts of data.
 
 -> Relational databses: This is a database that contains a series of tables that can be connected to form relationships. 
+
+-> FEATURES OF SPREADSHEETS:
+   1. Smaller data sets
+   2. Enter data manually.
+   3. Creates graphs and visualizations in the same program.
+   4. Built-in spell check and other useful functions.
+   5. Best when working solo on a project.
+   
+-> FEATURES OF SQL DATABASES:
+   1. Large datasets.
+   2. Access tables across a database.
+   3. Prepare data for further analysis in another software.
+   4. Fast and powerful functionality.
+   5. Great for collaborative work and tracking queries run by all users.

@@ -27,3 +27,9 @@
    2. Can pull information from different sources in the database.
    3. Stored across a database.
    
+-> Data is measured by the number of bits it takes to represent it. All information in a computer can be represented as a binary number consisting solely of 0’s and 
+   1’s. Each 0 or 1 in a number is a bit. A bit is the smallest unit of storage in computers. Since computers work in binary (Base 2), this means that all the 
+   important numbers that differentiate between different data sizes will be powers of 2.  
+
+   A byte is a collection of 8 bits. Take a moment to examine the table below to get a feel for the difference between data measurements and their relative sizes to 
+   one another. 

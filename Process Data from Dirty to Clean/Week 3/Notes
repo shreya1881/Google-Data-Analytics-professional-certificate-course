@@ -1,2 +1,4 @@
 -> SQL is a structured query language that analysts use to work with databases. Data analysts usually use SQL to deal with large datasets because it can handle huge 
    amounts of data.
+
+-> Relational databses: This is a database that contains a series of tables that can be connected to form relationships. 

@@ -33,3 +33,12 @@
 
    A byte is a collection of 8 bits. Take a moment to examine the table below to get a feel for the difference between data measurements and their relative sizes to 
    one another. 
+
+-> If we want to create a new table for this database, we can use the CREATE TABLE IF NOT EXISTS statement. Keep in mind, just running a SQL query doesn't actually 
+   create a table for the data we extract. It just stores it in our local memory. To save it, we'll need to download it as a spreadsheet or save the result into a
+   new table.
+   
+   Another good thing to keep in mind, if you're creating lots of tables within a database, you'll want to use the DROP TABLE IF EXISTS statement to clean up after
+   yourself. It's good housekeeping. You probably won't be deleting existing tables very often. After all, that's the company's data, and you don't want to delete
+   important data from their database. But you can make sure you're cleaning up the tables you've personally made so that there aren't old or unused tables with
+   redundant information cluttering the database.

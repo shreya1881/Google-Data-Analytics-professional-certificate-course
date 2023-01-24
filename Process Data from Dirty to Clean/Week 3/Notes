@@ -42,3 +42,8 @@
    yourself. It's good housekeeping. You probably won't be deleting existing tables very often. After all, that's the company's data, and you don't want to delete
    important data from their database. But you can make sure you're cleaning up the tables you've personally made so that there aren't old or unused tables with
    redundant information cluttering the database.
+
+-> We can remove duplicates in SQL using DISTINCT function.
+   We can calculate length of text string using LENGTH function
+   We can check for substring using SUBSTR function
+   We can removes extra spaces or unwanted characters using TRIM function

@@ -53,3 +53,6 @@
 -> Typecasting means converting data from one type to another, which is what we'll do with the CAST function.
 
 -> CONCAT lets you add strings together to create new text strings that can be used as unique keys. 
+
+-> COALESCE can be used to return non-null values in a list. Null values are missing values. If you have a field that's optional in your table, it'll have null in
+   that field for rows that don't have appropriate values to put there. 

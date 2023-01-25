@@ -49,3 +49,5 @@
    We can removes extra spaces or unwanted characters using TRIM function
 
 -> CAST can be used to convert anything from one data type to another. Let's check out an example. 
+
+-> Typecasting means converting data from one type to another, which is what we'll do with the CAST function.

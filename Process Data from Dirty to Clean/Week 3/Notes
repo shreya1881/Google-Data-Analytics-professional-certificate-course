@@ -47,3 +47,5 @@
    We can calculate length of text string using LENGTH function
    We can check for substring using SUBSTR function
    We can removes extra spaces or unwanted characters using TRIM function
+
+-> CAST can be used to convert anything from one data type to another. Let's check out an example. 

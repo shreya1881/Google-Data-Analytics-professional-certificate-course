@@ -102,3 +102,22 @@
    To return to the current version, go to the top left and click "Back." If you want to check out changes in a specific cell, we can right-click and select Show
    Edit History.
    Also, if you want others to be able to browse a sheet's version history, you'll need to assign permission.
+
+-> Engineers use engineering change orders (ECOs) to keep track of new product design details and proposed changes to existing products. Writers use document 
+   revision histories to keep track of changes to document flow and edits. And data analysts use changelogs to keep track of data transformation and cleaning.
+   
+-> Typically, a changelog records this type of information:  
+
+      Data, file, formula, query, or any other component that changed
+
+      Description of what changed
+
+      Date of the change
+
+      Person who made the change
+
+      Person who approved the change 
+
+      Version number 
+
+      Reason for the change

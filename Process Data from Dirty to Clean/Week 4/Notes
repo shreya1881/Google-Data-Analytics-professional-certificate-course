@@ -20,3 +20,14 @@
 -> Another key part of verification involves taking a big-picture view of your project. This is an opportunity to confirm you're actually focusing on the business 
    problem that you need to solve and the overall project goals and to make sure that your data is actually capable of solving that problem and achieving those goals.
    It's important to take the time to reset and focus on the big picture because projects can sometimes evolve or transform over time without us even realizing it.
+
+-> Taking a big picture view of your project involves doing three things. First, consider the business problem you're trying to solve with the data.
+   If you've lost sight of the problem, you have no way of knowing what data belongs in your analysis. Taking a problem-first approach to analytics is essential at 
+   all stages of any project. You need to be certain that your data will actually make it possible to solve your business problem. 
+   
+   Second, you need to consider the goal of the project. It's not enough just to know that your company wants to analyze customer feedback about a product. 
+   What you really need to know is that the goal of getting this feedback is to make improvements to that product. On top of that, you also need to know whether the
+   data you've collected and cleaned will actually help your company achieve that goal. 
+   
+   And third, you need to consider whether your data is capable of solving the problem and meeting the project objectives. That means thinking about where the data 
+   came from and testing your data collection and cleaning processes.

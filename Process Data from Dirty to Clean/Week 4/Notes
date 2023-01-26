@@ -31,3 +31,5 @@
    
    And third, you need to consider whether your data is capable of solving the problem and meeting the project objectives. That means thinking about where the data 
    came from and testing your data collection and cleaning processes.
+
+-> Find and replace. Find and replace is a tool that looks for a specified search term in a spreadsheet and allows you to replace it with something else.

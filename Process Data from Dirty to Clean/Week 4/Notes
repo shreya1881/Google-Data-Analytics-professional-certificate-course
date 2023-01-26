@@ -35,3 +35,12 @@
 -> Find and replace. Find and replace is a tool that looks for a specified search term in a spreadsheet and allows you to replace it with something else.
 
 -> The CASE statement goes through one or more conditions and returns a value as soon as a condition is met. 
+   SELECT 
+   customer_id,
+   CASE
+      WHEN first_name = 'Tnoy' THEN 'Tony'
+      ELSE first_name
+      END AS cleaned_name
+   FROM
+   customer_data.customer_name
+   

@@ -94,3 +94,11 @@
    But if they are, a record gives the data engineer more information to refer to. It's also a great warning for ourselves that the data set is full of errors and 
    should be avoided in the future. If the errors were time-consuming to fix, it might be better to check out alternative data sets that we can use instead. 
    Data analysts usually use a changelog to access this information.
+
+-> We can use Sheet's version history, which provides a real-time tracker of all the changes and who made them from individual cells to the entire worksheet. To
+   find this feature, click the File tab, and then select Version history.
+   In the right panel, choose an earlier version.
+   We can find who edited the file and the changes they made in the column next to their name.
+   To return to the current version, go to the top left and click "Back." If you want to check out changes in a specific cell, we can right-click and select Show
+   Edit History.
+   Also, if you want others to be able to browse a sheet's version history, you'll need to assign permission.

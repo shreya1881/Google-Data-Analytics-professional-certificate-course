@@ -70,3 +70,13 @@
    11. Truncated data: Did you check for truncated or missing data that needs correction?
 
    12. Business Logic: Did you check that the data makes sense given your knowledge of the business? 
+
+-> Review the goal of your project
+   Once you have finished these data cleaning tasks, it is a good idea to review the goal of your project and confirm that your data is still aligned with that 
+   goal. This is a continuous process that you will do throughout your project-- but here are three steps you can keep in mind while thinking about this: 
+
+   1. Confirm the business problem 
+
+   2. Confirm the goal of the project
+
+   3. Verify that data can solve the problem and is aligned to the goal 

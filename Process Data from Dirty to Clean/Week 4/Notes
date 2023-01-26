@@ -13,3 +13,6 @@
 -> A changelog is a file containing a chronologically ordered list of modifications made to a project. It's usually organized by version and includes the date
   followed by a list of added, improved, and removed features. Changelogs are very useful for keeping track of how a dataset evolved over the course of a project. 
   They're also another great way to communicate and report on data to others. 
+
+-> The first step in the verification process is going back to your original unclean data set and comparing it to what you have now. Review the dirty data and try
+   to identify any common problems. 

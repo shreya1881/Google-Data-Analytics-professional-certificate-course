@@ -16,3 +16,7 @@
 
 -> The first step in the verification process is going back to your original unclean data set and comparing it to what you have now. Review the dirty data and try
    to identify any common problems. 
+
+-> Another key part of verification involves taking a big-picture view of your project. This is an opportunity to confirm you're actually focusing on the business 
+   problem that you need to solve and the overall project goals and to make sure that your data is actually capable of solving that problem and achieving those goals.
+   It's important to take the time to reset and focus on the big picture because projects can sometimes evolve or transform over time without us even realizing it.

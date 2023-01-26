@@ -1,1 +1,15 @@
+-> Verification is a process to confirm that a data cleaning effort was well- executed and the resulting data is accurate and reliable. It involves rechecking your 
+   clean dataset, doing some manual clean ups if needed, and taking a moment to sit back and really think about the original purpose of the project. That way, you 
+   can be confident that the data you collected is credible and appropriate for your purposes. 
+   
+   Making sure your data is properly verified is so important because it allows you to double-check that the work you did to clean up your data was thorough and 
+   accurate.
 
+-> Open communication is a lifeline for any data analytics project. Reports are a super effective way to show your team that you're being 100 percent transparent
+   about your data cleaning. Reporting is also a great opportunity to show stakeholders that you're accountable, build trust with your team, and make sure you're 
+   all on the same page of important project details. 
+   Different strategies for reporting, include, creating data- cleaning reports, documenting your cleaning process, and using something called the changelog. 
+   
+-> A changelog is a file containing a chronologically ordered list of modifications made to a project. It's usually organized by version and includes the date
+  followed by a list of added, improved, and removed features. Changelogs are very useful for keeping track of how a dataset evolved over the course of a project. 
+  They're also another great way to communicate and report on data to others. 

@@ -82,3 +82,15 @@
    3. Verify that data can solve the problem and is aligned to the goal 
 
 -> This involves documentation which is the process of tracking changes, additions, deletions and errors involved in your data cleaning effort.
+
+-> Data errors are the crime, data cleaning is gathering evidence, and documentation is detailing exactly what happened for peer review or court. Having a record of
+   how a data set evolved does three very important things. 
+   First, it lets us recover data-cleaning errors. Instead of scratching our heads, trying to remember what we might have done three months ago, we have a cheat
+   sheet to rely on if we come across the same errors again later. It's also a good idea to create a clean table rather than overriding your existing table.
+   This way, you still have the original data in case you need to redo the cleaning. 
+   Second, documentation gives you a way to inform other users of changes you've made. If you ever go on vacation or get promoted, the analyst who takes over for
+   you will have a reference sheet to check in with. 
+   Third, documentation helps you to determine the quality of the data to be used in analysis. The first two benefits assume the errors aren't fixable. 
+   But if they are, a record gives the data engineer more information to refer to. It's also a great warning for ourselves that the data set is full of errors and 
+   should be avoided in the future. If the errors were time-consuming to fix, it might be better to check out alternative data sets that we can use instead. 
+   Data analysts usually use a changelog to access this information.

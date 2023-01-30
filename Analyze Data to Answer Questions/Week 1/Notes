@@ -10,3 +10,15 @@
 -> Tables help you organize similar kinds of data into categories and subject areas that you can focus on as you analyze.
 
 -> The structure of this database can help you decide which data you need to pull to meet your objectives.
+
+-> Sorting and filtering are two ways you can keep things organized when you format and adjust data to work with it. For example, a filter can help you find errors
+   or outliers so you can fix or flag them before your analysis. Outliers are data points that are very different from similarly collected data and might not be 
+   reliable values. The benefit of filtering the data is that after you fix errors or identify outliers, you can remove the filter and return the data to its original
+   organization.
+   
+   Sorting is when you arrange data into a meaningful order to make it easier to understand, analyze, and visualize. It ranks your data based on a specific metric you 
+   choose. You can sort data in spreadsheets, SQL databases (when your dataset is too large for spreadsheets), and tables in documents. 
+   
+   Filtering is used when you are only interested in seeing data that meets a specific criteria, and hiding the rest. Filtering is really useful when you have lots of 
+   data. You can save time by zeroing in on the data that is really important or the data that has bugs or errors. Most spreadsheets and SQL databases allow you to
+   filter your data in a variety of ways. Filtering gives you the ability to find what you are looking for without too much effort.

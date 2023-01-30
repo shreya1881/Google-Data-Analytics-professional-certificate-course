@@ -22,3 +22,6 @@
    Filtering is used when you are only interested in seeing data that meets a specific criteria, and hiding the rest. Filtering is really useful when you have lots of 
    data. You can save time by zeroing in on the data that is really important or the data that has bugs or errors. Most spreadsheets and SQL databases allow you to
    filter your data in a variety of ways. Filtering gives you the ability to find what you are looking for without too much effort.
+
+-> Sorting is when you arrange data into a meaningful order to make it easier to understand, analyze, and visualize. Sorting ranks your data based on a specific
+   metric that you can choose. You can sort data in spreadsheets and databases that use SQL.

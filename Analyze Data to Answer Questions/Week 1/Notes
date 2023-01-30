@@ -28,3 +28,13 @@
 
 -> Filtering is showing only the data that meets a specific criteria while hiding the rest. Typically you can use filters when you want to narrow down the amount of 
    data you want to sift through.
+
+-> When sorting data in a spreadsheet, you can choose to "Sort sheet" or "Sort range." 
+   If "Sort sheet" is applied, all of the data in a spreadsheet is sorted by the conditions of a single column, but the related information across each row stays 
+   together.
+   On the other hand, "Sort range" doesn't keep the information across rows together. When you sort a range, you're selecting a specific collection of cells or 
+   the range that you want the sorting limited to. Nothing else on the spreadsheet gets rearranged but the specified cells. 
+   
+   There's two methods for sorting spreadsheet data: one involves using the menu; the other involves writing out the sort function. 
+   
+   

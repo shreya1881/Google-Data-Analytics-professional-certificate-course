@@ -25,3 +25,6 @@
 
 -> Sorting is when you arrange data into a meaningful order to make it easier to understand, analyze, and visualize. Sorting ranks your data based on a specific
    metric that you can choose. You can sort data in spreadsheets and databases that use SQL.
+
+-> Filtering is showing only the data that meets a specific criteria while hiding the rest. Typically you can use filters when you want to narrow down the amount of 
+   data you want to sift through.

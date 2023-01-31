@@ -51,3 +51,4 @@
 
 -> In SQL you can use the ORDER BY clause to sort results returned in a query.
  
+-> The ORDER BY command is usually the last clause in your query. 

@@ -49,4 +49,5 @@
    The sort from a spreadsheet's Data tab overwrites the cells containing the unsorted data with the sorted data, while a written SORT function inserts the sorted
    data in a different cell range.
 
+-> In SQL you can use the ORDER BY clause to sort results returned in a query.
  

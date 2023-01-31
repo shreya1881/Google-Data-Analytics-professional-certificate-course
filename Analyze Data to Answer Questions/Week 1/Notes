@@ -36,5 +36,7 @@
    the range that you want the sorting limited to. Nothing else on the spreadsheet gets rearranged but the specified cells. 
    
    There's two methods for sorting spreadsheet data: one involves using the menu; the other involves writing out the sort function. 
-   
+
+-> A customized sort order is when you sort data in a spreadsheet using multiple conditions. This means that sorting will be based on the order of the conditions
+   you select. 
    

@@ -61,3 +61,6 @@ SELECT CAST(MyCount AS STRING)from MYTABLE
 
 -> Converting string to number
 SELECT CAST(Myvarcharcol as INT) from mytable
+
+-> Using IF statement for formulas in spreadsheet is very helpful.
+   IF(end>start, end-start, 1-start+end)

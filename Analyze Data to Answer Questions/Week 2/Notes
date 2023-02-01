@@ -64,3 +64,8 @@ SELECT CAST(Myvarcharcol as INT) from mytable
 
 -> Using IF statement for formulas in spreadsheet is very helpful.
    IF(end>start, end-start, 1-start+end)
+
+-> Best practices for searching online:
+   1. Thinking skills
+   2. Data analytics terms
+   3. Basic knowledge of tools

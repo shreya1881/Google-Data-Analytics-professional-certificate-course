@@ -1,2 +1,5 @@
 -> Incorrectly formatted data can lead to time-consuming mistakes in your analysis, and might end up affecting your stakeholders' decision-making.
    To aboid these, data formatting is needed.
+
+-> Converting the wind speed in Column D from miles per hour (mph) to meters per second (m/s) using CONVERT.  In cell H2, enter:
+=CONVERT(D2, "mph", "m/s")

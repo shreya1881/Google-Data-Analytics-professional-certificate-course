@@ -42,3 +42,22 @@
       - Date
       - Date time
       - Timestamp
+
+-> CAST syntax:
+CAST(expression AS typename)
+
+-> Converting number to string
+SELECT CAST(MyCount AS STRING)from MYTABLE
+
+      SELECT indicates that you will be selecting data from a table
+
+      CAST indicates that you will be converting the data you select to a different data type
+
+      AS comes before and identifies the data type which you are casting to
+
+      STRING indicates that you are converting the data to a string
+
+      FROM indicates which table you are selecting the data from
+
+-> Converting string to number
+SELECT CAST(Myvarcharcol as INT) from mytable

@@ -16,3 +16,29 @@
    3. Protect structured data and formulas.
 
 -> Data validation can help your team track progress, protect your tables from breaking when working in big teams, and help you customize tables to your needs.
+
+-> Numeric (number) can be converted to:
+      - Integer
+      - Numeric (number)
+      - Big number
+      - Floating integer
+      - String
+
+-> String can be converted to:
+      - Boolean
+      - Integer
+      - Numeric (number)
+      - Big number
+      - Floating integer
+      - String
+      - Bytes
+      - Date
+      - Date time
+      - Time
+      - Timestamp 
+      
+-> Date can be converted to:
+      - String
+      - Date
+      - Date time
+      - Timestamp

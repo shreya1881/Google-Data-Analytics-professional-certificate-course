@@ -9,3 +9,8 @@
 -> what data validation does in spreadsheets? Basically, it allows you to control what can and can't be entered in your worksheet. Usually, data validation is used to 
    add drop-down lists to cells with predetermined options for users to choose from. If you have a spreadsheet with a lot of collaborators, this can make it easier 
    for them to interact with your table. 
+
+-> Data Validation:
+   1. Add dropdown lists with predetermined options.
+   2. Create custom checkboxes.
+   3. Protect structured data and formulas.

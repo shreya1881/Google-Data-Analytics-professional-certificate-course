@@ -69,3 +69,7 @@ SELECT CAST(Myvarcharcol as INT) from mytable
    1. Thinking skills
    2. Data analytics terms
    3. Basic knowledge of tools
+
+-> R is another programming language, but it's not a database language like SQL. It's a programming language frequently used for statistical analysis, 
+   visualization, and other data analysis. R is a little different from other tools we've been working with, but it's a great complement for the tools you're 
+   already using. With R, you'll be able to analyze and visualize data in all kinds of new ways. 

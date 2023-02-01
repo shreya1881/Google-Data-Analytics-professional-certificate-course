@@ -3,3 +3,9 @@
 
 -> Converting the wind speed in Column D from miles per hour (mph) to meters per second (m/s) using CONVERT.  In cell H2, enter:
 =CONVERT(D2, "mph", "m/s")
+
+-> To join two strings or dates or numbers or values we use CONCAT or CONCATENATE. CONCAT takes in two values, CONCATENATE can take more than 2.
+
+-> what data validation does in spreadsheets? Basically, it allows you to control what can and can't be entered in your worksheet. Usually, data validation is used to 
+   add drop-down lists to cells with predetermined options for users to choose from. If you have a spreadsheet with a lot of collaborators, this can make it easier 
+   for them to interact with your table. 

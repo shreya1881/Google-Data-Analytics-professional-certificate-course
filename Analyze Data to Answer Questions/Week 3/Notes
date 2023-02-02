@@ -5,3 +5,5 @@
    its own. 
 
 -> subquery, also called an inner or nested query, is a query within another query.
+
+-> VLOOKUP stands for vertical lookup. Basically, it's a function that searches for a certain value in a column to return a corresponding piece of information.

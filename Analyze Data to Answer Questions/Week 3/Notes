@@ -9,3 +9,5 @@
 -> VLOOKUP stands for vertical lookup. Basically, it's a function that searches for a certain value in a column to return a corresponding piece of information.
 
 -> VALUE is a function that converts a text string that represents a number to a numerical value.
+
+-> An absolute reference is a reference that is locked so that rows and columns won't change when copied. 

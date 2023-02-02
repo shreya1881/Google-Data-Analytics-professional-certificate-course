@@ -3,3 +3,5 @@
 
 -> Data aggregation helps data analyst identify trends, make comparisons and gain insights that wouldn't be possible if each of the data elements were analyzed on 
    its own. 
+
+-> subquery, also called an inner or nested query, is a query within another query.

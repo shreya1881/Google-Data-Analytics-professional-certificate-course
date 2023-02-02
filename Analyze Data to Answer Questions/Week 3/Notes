@@ -11,3 +11,5 @@
 -> VALUE is a function that converts a text string that represents a number to a numerical value.
 
 -> An absolute reference is a reference that is locked so that rows and columns won't change when copied. 
+
+-> MATCH, which is a function used to locate the position of a specific lookup value and can help you with version control. 

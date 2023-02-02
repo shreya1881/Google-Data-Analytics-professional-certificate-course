@@ -40,3 +40,5 @@
       the search key, #N/A is returned.
 
 -> JOIN is a SQL clause that's used to combine rows from two or more tables based on a related column. 
+
+-> There are four common JOINs data analysts use, inner, left, right, and outer. 

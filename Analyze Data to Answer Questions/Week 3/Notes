@@ -38,3 +38,5 @@
 
       If is_sorted is TRUE or omitted, the nearest match (less than or equal to the search key) is returned. If all values in the search column are greater than
       the search key, #N/A is returned.
+
+-> JOIN is a SQL clause that's used to combine rows from two or more tables based on a related column. 

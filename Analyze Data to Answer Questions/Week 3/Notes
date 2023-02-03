@@ -63,3 +63,7 @@
    like special_projects_customer_negotiation_mileages. 
 
 -> JOIN syntax: SELECT, FROM, JOIN, ON
+
+-> COUNT can be used to count the total number of numerical values within a specific range in spreadsheets. COUNT in SQL does the same thing. COUNT is a query that
+   returns the number of rows in a specified range, but COUNT DISTINCT is a little different. 
+   COUNT DISTINCT is a query that only returns the distinct values in that range. Basically, this means COUNT DISTINCT doesn't count repeating values.

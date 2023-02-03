@@ -33,6 +33,9 @@
    is_sorted 
       Indicates whether the column to be searched (the first column of the specified range) is sorted. TRUE by default.
 
+-> Primary keys reference columns in which each value is unique to that table. But that table can have multiple foreign keys which are primary keys in other 
+   tables. For example, in a table about employees, the employee ID is a primary key and the office ID is a foreign key. JOIN use these keys to identify
+   relationships and corresponding values. An inner JOIN is a function that returns records with matching values in both tables.
       It’s recommended to set is_sorted to FALSE. If set to FALSE, an exact match is returned. If there are multiple matching values, the content of the cell 
       corresponding to the first value found is returned, and #N/A is returned if no such value is found.
 

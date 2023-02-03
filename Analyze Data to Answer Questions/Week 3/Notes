@@ -61,3 +61,5 @@
 -> Aliasing is the process of using aliases. Aliases are used in SQL queries to create temporary names for a column or table. Aliases make referencing tables and 
    columns in your SQL queries much simpler when you have table or column names that are too long or complex to make use of in queries. Imagine a table name 
    like special_projects_customer_negotiation_mileages. 
+
+-> JOIN syntax: SELECT, FROM, JOIN, ON

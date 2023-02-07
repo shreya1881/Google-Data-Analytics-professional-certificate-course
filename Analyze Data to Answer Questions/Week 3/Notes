@@ -100,3 +100,11 @@
       avg(num_of_bikes_available) 
       FROM citibikes as available_bikes)
    FROM citibikes
+
+-> WHERE function can't be used with aggregate functions. For example, you can use WHERE on a statement and follow it with GROUP BY. But when you want to use 
+   GROUP BY first and then use WHERE on that output, you'll need a different function. This is where HAVING comes in. 
+   
+   HAVING basically allows you to add a filter to your query instead of the underlying table when you're working with aggregate functions. That way it only returns 
+   records that meet your specific conditions. 
+   
+   Similarly, CASE returns records with your conditions by allowing you to include if/then statements in your query. 

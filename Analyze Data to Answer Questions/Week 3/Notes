@@ -70,3 +70,18 @@
 
 -> Aliasing is when you temporarily name a table or column in your query to make it easier to read and write. Because these names are temporary, they only last for
    the given query.
+
+-> A subquery is a SQL query that is nested inside of a larger query.
+
+-> Your larger query can have a subquery in it and then that subquery could have a subquery, and then that subquery can have another subquery. But when you stack 
+   them all together, they make one query. With subqueries you can combine different pieces of logic together. Because the logic of your outer query relies on the 
+   inner query, you can get more done with a single query. This means all of the logic is in one place, which makes it more efficient and easier to read. 
+   
+   The statement containing the subquery can also be called the outer query or the outer select. This makes the subquery the inner query or inner select.
+   The inner query executes first so that the results can be passed on to the outer query to use. 
+   
+   Subqueries can get a little confusing because there's so many layers. But if you keep in mind that the innermost query executes first, it'll be easier to order
+   your subqueries when you want them to execute. Subqueries can also be nested inside all sorts of other queries. Usually you'll find subqueries nested in FROM or
+   WHERE clauses.
+   
+-> 

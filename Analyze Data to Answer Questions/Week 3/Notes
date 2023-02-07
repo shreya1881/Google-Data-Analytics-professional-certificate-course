@@ -84,4 +84,19 @@
    your subqueries when you want them to execute. Subqueries can also be nested inside all sorts of other queries. Usually you'll find subqueries nested in FROM or
    WHERE clauses.
    
--> 
+-> We'll start with a subquery in a SELECT statement using the bike-sharing data from an earlier example. For the first statement, let's say we want to compare the
+   number of bikes available at a station to the average number of bikes available. We're going to use this query to pull the average number of bikes available. 
+   Then we're going to incorporate it as a subquery.
+
+   Now let's build our outer SELECT query. We want to select the station ID and the number of bikes available. Then we'll put the SELECT query that's pulling the
+   average number of bikes inside that outer query by using parentheses. We'll also build FROM into the subquery before closing it with another parenthesis and 
+   completing the outer query.
+
+   The end of the outer join query has AS to show what we want to call this column and a final FROM statement to indicate which table we're referring to.
+   
+   SELECT
+      station_id, num_of_bikes_available
+   (SELECT 
+      avg(num_of_bikes_available) 
+      FROM citibikes as available_bikes)
+   FROM citibikes

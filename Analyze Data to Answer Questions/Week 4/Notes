@@ -12,3 +12,5 @@
    followed by an open parenthesis and arrays being multiplied and then added together. Each array is separated by a comma. An array is kind of like a range in a 
    spreadsheet. But keep in mind, an array is a collection of values in cells, not the cells themselves. When added to a formula, the SUMPRODUCT function multiplies
    each of the values in two or more arrays together. 
+
+->  The profit margin is a percentage that indicates how many cents of profit have been generated for each dollar of sale.

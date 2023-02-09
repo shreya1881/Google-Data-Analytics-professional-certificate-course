@@ -1,1 +1,9 @@
 -> COUNTIF returns the number of cells that match a specified value.
+
+-> summary table, which is a table used to summarize statistical information about data. 
+
+-> SUMIF is a function that adds numeric data based on one condition. Building a formula with SUMIF is a bit different than one with COUNTIF. 
+   They both start the same way with an equal sign and the function, but a SUMIF formula contains the range of cells to be evaluated by your criteria, and the
+   criteria. In other words, SUMIF has a list of cells to check based on the criteria you set in the formula. Then the range where we want to add the numbers is 
+   placed in the formula if that range is different from the range being evaluated. There's commas between each of these parts. Adding a space after each comma is 
+   optional. 

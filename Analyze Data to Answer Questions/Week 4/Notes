@@ -17,3 +17,5 @@
 
 -> First, we need to find out how much revenue was generated each year. A pivot table is a good way to organize this. So we'll build a pivot table to show this. 
    In our pivot table, we can also find the average revenue per movie. We can then check our findings for some possible trends.
+
+-> A calculated field is a new field within a pivot table that carries out certain calculations based on the values of other fields.

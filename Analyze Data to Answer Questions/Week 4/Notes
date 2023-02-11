@@ -13,4 +13,7 @@
    spreadsheet. But keep in mind, an array is a collection of values in cells, not the cells themselves. When added to a formula, the SUMPRODUCT function multiplies
    each of the values in two or more arrays together. 
 
-->  The profit margin is a percentage that indicates how many cents of profit have been generated for each dollar of sale.
+-> The profit margin is a percentage that indicates how many cents of profit have been generated for each dollar of sale.
+
+-> First, we need to find out how much revenue was generated each year. A pivot table is a good way to organize this. So we'll build a pivot table to show this. 
+   In our pivot table, we can also find the average revenue per movie. We can then check our findings for some possible trends.

@@ -24,3 +24,7 @@
    The four basic arithmetic operators in spreadsheet formulas are the plus sign for addition, the minus or hyphen for subtraction, the asterisk for multiplication, 
    and the forward slash for division. These same operators calculate data in the same way when writing queries in SQL. The operators are embedded in the queries 
    when pulling data from a database. Just like spreadsheet formulas, there's a few different ways to perform calculations using queries. 
+
+-> We start with SELECT and then the names of the columns we want to use in our calculations. Then we add in calculation details including an operator like a 
+   forward slash for division. Next, we type AS followed by the new column name to label the column with the calculated values. Finally, we end our query with the
+   FROM command and the name of the table that we're pulling data from. 

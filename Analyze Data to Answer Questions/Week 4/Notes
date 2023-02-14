@@ -55,3 +55,8 @@
    For example, you might have a lot of tables you're performing calculations on at the same time. If you have a query that needs to join seven or eight of them,
    you could join the two or three tables having the fewest number of rows and store their output in a temp table. You could then join this temp table to one of
    the other bigger tables. 
+
+   Temporary tables can be created using:
+   a. WITH clause
+   b. SELECT INTO command
+   c. CREATE TABLE command

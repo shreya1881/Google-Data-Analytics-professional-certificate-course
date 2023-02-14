@@ -45,3 +45,6 @@
    4) Data consistency
    5) Data structure
    6) Code validation
+
+-> Checking and rechecking the quality of your data during data validation process helps ensure the data is complete, accurate, secure and consistent. Sorting and
+   filtering are not goals of data validation.

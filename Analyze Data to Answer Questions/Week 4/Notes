@@ -31,3 +31,6 @@
 
 -> GROUP BY is a command that groups rows that have the same values from a table into summary rows. The GROUP BY command is used with SELECT statements. In a basic 
    SELECT FROM or SELECT-FROM-WHERE query, GROUP BY comes at the end of the query.
+
+-> Data Validation: This process involves checking and rechecking the quality of your data so that it is complete, accurate, secure, and consistent. While the 
+   data validation process is a form of data cleaning, you should use it throughout your analysis.

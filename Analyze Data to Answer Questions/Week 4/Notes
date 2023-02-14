@@ -60,3 +60,4 @@
    a. WITH clause
    b. SELECT INTO command
    c. CREATE TABLE command
+   d. CREATE TEMP TABLE command

@@ -34,3 +34,14 @@
 
 -> Data Validation: This process involves checking and rechecking the quality of your data so that it is complete, accurate, secure, and consistent. While the 
    data validation process is a form of data cleaning, you should use it throughout your analysis.
+
+-> The data validation process is a form of data cleaning. During this process, data analysts check the quality of their data to make sure it’s complete, accurate,
+   secure, and consistent.
+   
+   6 types of Data Validation:
+   1) Data Type
+   2) Data Range
+   3) Data constraints
+   4) Data consistency
+   5) Data structure
+   6) Code validation

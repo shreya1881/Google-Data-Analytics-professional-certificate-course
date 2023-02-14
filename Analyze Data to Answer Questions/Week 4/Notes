@@ -48,3 +48,10 @@
 
 -> Checking and rechecking the quality of your data during data validation process helps ensure the data is complete, accurate, secure and consistent. Sorting and
    filtering are not goals of data validation.
+
+-> A temporary table is a database table that is created and exists temporarily on a database server. Temp tables as we call them store subsets of data from
+   standard data tables for a certain period of time. Then they're automatically deleted when you end your SQL database session. Since temp tables aren't stored
+   permanently, they're useful when you only need a table for a short time to complete analysis tasks, like calculations. 
+   For example, you might have a lot of tables you're performing calculations on at the same time. If you have a query that needs to join seven or eight of them,
+   you could join the two or three tables having the fewest number of rows and store their output in a temp table. You could then join this temp table to one of
+   the other bigger tables. 

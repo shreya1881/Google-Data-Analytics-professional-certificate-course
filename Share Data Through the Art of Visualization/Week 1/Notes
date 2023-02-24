@@ -35,3 +35,15 @@
 
 -> Pie charts show proportions and percentages between categories. Each part of the circle or pi should reflect its percentage to the whole, which is equal to 
    100 percent.
+
+-> One of your biggest considerations when creating a data visualization is where you'd like your audience to focus. Showing too much can be distracting and leave
+   your audience confused. In some cases, restricting data can be a good thing. On the other hand, showing too little can make your visualization unclear and less
+   meaningful. As a general rule, as long as it's not misleading, you should visually represent only the data that your audience needs in order to understand your 
+   findings.
+   
+   what you can show with visualizations. Change over time is a big one. If your analysis involves how the data has changed over a certain period, which could be
+   days, weeks, months, or years. You can set your visualization to show only the time period relevant to your objective.
+   
+->  A histogram resembles a bar graph, but it's a chart that shows how often data values fall into certain ranges. This histogram shows a lot of data and how it's
+   distributed on a narrow range from a negative one to a positive one. Each bin or bucket, as the bar is called, contains a certain number of values that fall 
+   into one small part of the range.

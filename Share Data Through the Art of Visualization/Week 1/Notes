@@ -22,3 +22,11 @@
    
    Channels are visual aspects or variables that represent characteristics of the data. Channels are basically marks that have been used to visualize data. Accuracy,
    popout, grouping.
+
+-> Bar graphs use size contrast to compare two or more values. The horizontal line of a bar graph usually placed at the bottom, is called the x-axis, and bar graphs 
+   with vertical bars, the x-axis is used to represent categories, time periods, or other variables. The vertical line of a bar graph usually placed to the left is
+   called the y-axis. The y-axis usually has a scale of values for the variables. In this example, the time of day is compared to someone's level of motivation 
+   throughout the whole workday. Bar graphs are a great way to clarify trends. 
+   
+-> Line graphs are a type of visualization that can help your audience understand shifts or changes in your data. They're usually used to track changes through a
+   period of time, but they can be paired with other factors too.

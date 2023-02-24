@@ -156,3 +156,37 @@ unified.
 
 9. Unity: The last principle is unity. This means that your final data visualization should be cohesive. If the visual is disjointed or not well organized, it will
 be confusing and overwhelming. 
+
+-> This is known as data composition, and it's achieved by combining the individual parts of a visualization and displaying them together as a whole. Stack bars, 
+   donuts, stacked areas, pie charts and tree maps can do all this. Now to show relationships in your data, you might want to use scatterplot and bubble charts,
+   column/line charts and heatmaps. 
+   
+-> Design thinking is a process used to solve complex problems in a user-centric way.
+
+->  While the design thinking process comes in lots of different forms, they all have stages or phases. We'll talk about five phases that you can use when creating 
+data visualizations, empathize, define, ideate, prototype, and test. In the spirit of design thinking, these phases don't have to follow a set order. Instead, think
+of them as an overview of actions that can help you produce a user centered design in your visualizations. In the empathize phase you think about the emotions and 
+needs of the target audience of your data viz, whether it's stakeholders, team members or the general public. Here you should avoid areas where people might face 
+obstacles interacting with your visualizations. For example, let's say you've been working on an analysis for a pharmaceutical company about how patients have been
+responding to a new treatment. You're getting ready to visualize the data, so you should think about the audience, which will include stakeholders like pharmacists,
+doctors and other medical professionals. Maybe you're thinking of using a color scheme that you like, but you realize that these colors might be a challenge to some
+people. The colors might be too bright or dramatic, which might not be right for the seriousness of the data. Or the colors might not have enough contrast for people
+who have color vision deficiencies.
+
+By adjusting the colors, you'll be empathizing with the needs of your audience. If there's someone on your team who is vision impaired, you want to find a way to 
+explain the data verbally as well. The define phase helps you to find your audiences needs, their problems, and your insights. This goes hand in hand with the 
+empathize phase as you'll use what you learned in that phase to help you spell out exactly what your audience needs from your visualization. You could use this 
+phase to think about which data to show in your visualization. Maybe this data viz will also be presented to patients who are part of your company's study.
+
+While you'll need to meet your objectives, there might be data that could make these people uncomfortable.
+
+You can think of ways to position that data to make it more digestible. Or if you're presenting to different audiences, you can adjust your visualizations to meet 
+each group's needs by seeking input from members of the group or colleagues who've worked with that group before.
+
+In the ideate phase, you start to generate your data viz ideas. You'll use all of your findings from the empathize and define phases to brainstorm potential data 
+viz solutions.
+
+This might involve creating drafts of your visualization with different color combinations or maybe experimenting with different shapes. Creating as many examples 
+as possible will help you refine your ideas. The key here is to always remember your audience when coming up with ideas and strategies. You want to think about how
+you can position your visualizations to meet the needs and expectations of your audience. The final two phases are prototype and test. Here you'll start putting
+your charts, dashboards or other visualizations together.

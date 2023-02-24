@@ -47,3 +47,27 @@
 ->  A histogram resembles a bar graph, but it's a chart that shows how often data values fall into certain ranges. This histogram shows a lot of data and how it's
    distributed on a narrow range from a negative one to a positive one. Each bin or bucket, as the bar is called, contains a certain number of values that fall 
    into one small part of the range.
+
+-> Correlation charts can show relationships among data, but they should be used with caution because they might lead viewers to think that the data shows causation.
+   Causation or a cause-effect relationship occurs when an action directly leads to an outcome. Correlation and causation are often mixed up because humans like
+   to find patterns even when they don't exist. If two variables look like they're associated in some way, we might assume that one is dependent on the other. 
+   That implies causation, even if the variables are completely independent. If we put that data into a visualization, then it would be misleading.
+   But correlation charts that do show causation can be effective.
+   
+-> Correlation in statistics is the measure of the degree to which two variables move in relationship to each other. An example of correlation is the idea that 
+   “As the temperature goes up, ice cream sales also go up.” It is important to remember that correlation doesn’t mean that one event causes another. But, it does
+   indicate that they have a pattern with or a relationship to each other. If one variable goes up and the other variable also goes up, it is a positive correlation.
+   If one variable goes up and the other variable goes down, it is a negative or inverse correlation. If one variable goes up and the other variable stays about the
+   same, there is no correlation.
+   
+   Causation refers to the idea that an event leads to a specific outcome. For example, when lightning strikes, we hear the thunder (sound wave) caused by the air
+   heating and cooling from the lightning strike. Lightning causes thunder.  
+   
+-> Static visualizations do not change over time unless they're edited. They can be useful when you want to control your data and your data story. Any visualization
+   printed on paper is automatically static. Charts and graphs created in spreadsheets are often static too.
+   
+   dynamic visualizations are interactive or change over time. The interactive nature of these graphics means that users have some control over what they see. This
+   can be helpful if stakeholders want to adjust what they're able to view.
+   
+-> A decision tree is a decision-making tool that allows you, the data analyst, to make decisions based on key questions that you can ask yourself. Each question 
+   in the visualization decision tree will help you make a decision about critical features for your visualization.

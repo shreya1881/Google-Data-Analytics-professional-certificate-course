@@ -190,3 +190,16 @@ This might involve creating drafts of your visualization with different color co
 as possible will help you refine your ideas. The key here is to always remember your audience when coming up with ideas and strategies. You want to think about how
 you can position your visualizations to meet the needs and expectations of your audience. The final two phases are prototype and test. Here you'll start putting
 your charts, dashboards or other visualizations together.
+
+-> A headline is a line of words printed in large letters at the top of the visualization to communicate what data is being presented. It's the attention-grabber 
+that makes your audience want to read more. Take charts, for example. A chart without a headline is like a report without a title. You want to make it easy to 
+understand what your chart's about. Be sure to use clear, concise language, explaining all information as plainly as possible. Try to avoid using abbreviations or
+acronyms, even if you think they're common knowledge. The typography and placement of the headline is important too. It's best to keep it simple. Make it bold or 
+a few sizes larger than the rest of the text and place it directly above the chart, aligned to the left.
+
+A subtitle supports the headline by adding more context and description. Use a font style that matches the rest of the charts elements and place the subtitle
+directly underneath the headline.
+
+A legend or key identifies the meaning of various elements in a data visualization and can be used as an alternative to labeling data directly. Direct labeling like
+this keeps your audience's attention fixed on your graphic and helps them identify data quickly. While legends force the audience to do more work, because a legend 
+is positioned away from the chart's data.

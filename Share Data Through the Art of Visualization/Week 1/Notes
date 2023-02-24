@@ -8,3 +8,17 @@
    raw data to tell a story. 
 
 -> Four elements of effective data visualization are: Information(data), Story(concept), goal(function), visual form(story).
+   
+   Information: the data you are working with
+
+   Story: a clear and compelling narrative or concept
+
+   Goal: a specific objective or function for the visual
+
+   Visual form: an effective use of metaphor or visual expression
+   
+-> Pre-attentive attributes are the elements of a data visualization that people recognize automatically without conscious effort. The essential, basic building 
+   blocks that make visuals immediately understandable are called marks and channels. Marks, Size, Shape, Colour.
+   
+   Channels are visual aspects or variables that represent characteristics of the data. Channels are basically marks that have been used to visualize data. Accuracy,
+   popout, grouping.

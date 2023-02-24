@@ -203,3 +203,6 @@ directly underneath the headline.
 A legend or key identifies the meaning of various elements in a data visualization and can be used as an alternative to labeling data directly. Direct labeling like
 this keeps your audience's attention fixed on your graphic and helps them identify data quickly. While legends force the audience to do more work, because a legend 
 is positioned away from the chart's data.
+
+-> Alternative text provides a textual alternative to non-text content. It allows the content and function of the image to be accessible to those with visual or 
+   certain cognitive disabilities. Here's an example that shows additional text describing the chart. 

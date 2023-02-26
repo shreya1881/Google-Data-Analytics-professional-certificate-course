@@ -23,3 +23,6 @@
 
 -> Spotlighting is scanning through the data to quickly identify the most important insights. There are many ways to spotlight, but lots of data analysts like to use 
    sticky notes on a whiteboard.
+
+-> In Tableau, tiled items can't be layered over other objects. They are part of a single-layer grid that automatically resizes based on the overall dashboard size. 
+   You can layer floating items over other objects.

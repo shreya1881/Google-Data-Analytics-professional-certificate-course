@@ -3,3 +3,21 @@
 -> Spreadsheet - A program that uses rows and columns to organize data and allows for analysis and manipulation through formulas, functions, and built-in features.
    SQL - A database programming language used to communicate with databases to conduct an analysis of data.
    R - A general purpose programming language used for statistical analysis, visualization, and other data analysis.
+
+-> R is a programming language frequently used for statistical analysis, visualization and other data analysis. 
+
+-> R is accessible, data-centric, open-source and has an active community of users. 
+
+   First R is an accessible language for beginners. Lots of people without a traditional programming language learn R. I should know. I'm one of them. R really 
+   appeals to anyone who wants to solve problems that involve data. And that's one of the things that's so great about R. It's all about data. 
+   
+   R is what's known as a data-centric programming language. It's specifically designed to make data analysis easier, more efficient and more powerful.
+   
+   Another awesome thing about R is that it's open source. Open source means that the code is freely available and may be modified and shared by the people who use it.
+   Let's pause for a moment and unpack how amazing this is. First anyone can use R for free. Second, anyone can modify the code, fix bugs and improve it. In fact,
+   over the years, lots of excellent programmers have made improvements and fixes to the R code. For example, anyone who knows the R language can create what's called 
+   an add-on package. We'll talk more about R packages later. For now, just know that literally thousands of R packages exist, and they were all built by people who
+   wanted to solve specific problems. A lot of these packages are super useful for data analysts. As an R user, you now enjoy the benefit of the shared knowledge. 
+   
+   And let me just add, the R community is the best. This vibrant, diverse and accessible community is so supportive of new learners. You can go online anytime to 
+   find answers to all your R questions.

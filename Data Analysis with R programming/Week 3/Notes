@@ -19,3 +19,14 @@ many columns as fit on screen. Super useful when you're working with large sets 
 set standards for how they're built and dealt with is pretty important. 
 
 -> The mutate function is part of the dplyr package which is in the tidyverse.
+
+-> Here package. This package makes referencing files easier. To install it, we'll just write install.packages. Then in the parentheses, we'll put Here and RStudio
+will install it. After we install it, we'll also need to load it using library. Next, we'll install Skimr and Janitor. As a quick reminder, these packages simplify 
+data cleaning tasks. They're both really useful and do slightly different things. The Skimr package makes summarizing data really easy and let's you skim through it
+more quickly. We'll install it now.
+
+The Janitor package has functions for cleaning data.
+
+-> Similar to the rename function, the rename_with() function can change column names to be more consistent. For example, maybe we want all of our column names to be
+in uppercase. We can use the rename_with() function to do that. This will automatically make our column names uppercase. But since variable names are usually 
+lowercase, we'll use the "To lower" option to change it back.

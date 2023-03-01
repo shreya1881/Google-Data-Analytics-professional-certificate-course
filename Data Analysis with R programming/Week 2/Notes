@@ -29,3 +29,6 @@
    
    Arithmetic operators. These operators are used to complete math calculations and they might seem familiar. Plus signs do addition on variables, and minus signs 
    do subtraction. We use an asterisk to perform multiplication and a slash performs division.
+
+-> One of the most commonly used sources of packages is CRAN. CRAN stands for Comprehensive R Archives Network. It's an online archive with R packages, source code,
+   manuals and documentation. 

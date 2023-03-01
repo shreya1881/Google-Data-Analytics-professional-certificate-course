@@ -1,2 +1,16 @@
 -> Functions are a body of reusable code used to perform specific tasks in R. Functions begin with function names like print or paste, and are usually followed by one
    or more arguments in parentheses. An argument is information that a function in R needs in order to run. 
+
+-> A variable is a representation of a value in R that can be stored for use later during programming. Variables can also be called objects. As a data analyst, you'll
+   find variables are very useful when programming. 
+   
+-> A pipe is a tool in R for expressing a sequence of multiple operations. A pipe is represented by a % sign, followed by a > sign, and another % sign. It's used to 
+   apply the output of one function into another function. Pipes can make your code easier to read and understand. 
+   
+-> Fundamentals of R programming:
+   1. Functions
+   2. Comments
+   3. Variables
+   4. Vectors
+   5. Pipe
+   6. Data Types

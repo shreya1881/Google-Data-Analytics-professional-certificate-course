@@ -1,1 +1,2 @@
-
+-> Functions are a body of reusable code used to perform specific tasks in R. Functions begin with function names like print or paste, and are usually followed by one
+   or more arguments in parentheses. An argument is information that a function in R needs in order to run. 

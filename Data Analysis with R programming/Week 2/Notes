@@ -32,3 +32,11 @@
 
 -> One of the most commonly used sources of packages is CRAN. CRAN stands for Comprehensive R Archives Network. It's an online archive with R packages, source code,
    manuals and documentation. 
+
+-> Packages offer a helpful combination of code, reusable R functions, descriptive documentation, tests for checking operability, and sample data sets. And for 
+   lots of data analysts.
+   
+-> Tidyverse is actually a collection of packages in R with a common design philosophy for data manipulation, exploration, and visualization. Using tidyverse can 
+   help you work your way through pretty much the entire data analysis process. The packages in tidyverse work together naturally. 
+   
+-> Conflicts happen when packages have functions with the same names as other functions. 

@@ -1,1 +1,21 @@
+-> A data frame is a collection of columns. 
 
+-> The columns contain one variable, and the rows have a set of values that match each column. We use data frames for a lot of the same reasons as tables too. 
+They help summarize data and put it into a format that's easy to read and use. There's some things to know about data frames before working with them. We'll learn 
+more about data frames throughout this program, but this is a great starting point. First, columns should be named. Using empty column names can create problems with 
+your results later on.
+
+-> All of these columns represent data about the diamonds. Next, it's important to know that the data stored in your data frame can be many different types, 
+like numeric, factor, or character. Often data frames contain dates, time stamps and logical vectors. Finally, each column should contain the same number of data 
+items, even if some of those data items are missing. Data frames are foundational.
+
+-> Tibbles are like streamlined data frames. They make working with data easier, but they're a little different from standard data frames. First, tibbles never change 
+the data types of the inputs. They won't change your strings to factors or anything else. You can make more changes to base data frames, but tibbles are easier to 
+use. This saves time because you won't have to do as much cleaning or changing data types in tibbles. Tibbles also never change the names of your variables, and they 
+never create row names.
+
+Finally, tibbles make printing in R easier. They won't accidentally overload your console because they're automatically set to pull up only the first 10 rows and as
+many columns as fit on screen. Super useful when you're working with large sets of data. Data frames and tibbles are the building blocks for analysis in R so having 
+set standards for how they're built and dealt with is pretty important. 
+
+-> The mutate function is part of the dplyr package which is in the tidyverse.

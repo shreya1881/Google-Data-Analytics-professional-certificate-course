@@ -40,3 +40,27 @@
    help you work your way through pretty much the entire data analysis process. The packages in tidyverse work together naturally. 
    
 -> Conflicts happen when packages have functions with the same names as other functions. 
+
+-> Ggplot2 is used for data visualization, specifically plots. With ggplot2, you can create a variety of data viz by applying different visual properties to the 
+   data variables. Here's an example of ggplot2 in action. You'll have your own chance to use ggplot2 later. 
+   
+   Tidyr is a package used for data cleaning to make tidy data. We covered tidy or clean data earlier, but as a quick reminder, it's data where every part of a 
+   data table or data frame is the right type in the right place. Tidyr works with wide and long data to make sure this happens. 
+   
+   Next, we have readr, which is used for importing data. The most common function from readr is read_csv. This will import a CSV file into R. A CSV file contains 
+   data separated by commas in a table format. To accurately read a dataset with readr, you combine the function with a column specification. The column 
+   specification describes how each column should be converted to the most appropriate data type.
+   
+   Dplyr offers a consistent set of functions that help you complete some common data manipulation tasks. For example, the select function picks variables based on
+   their names, and the filter function finds cases where certain conditions are true. And, yes, dplyr is another package we'll get to later. 
+   
+   Tibble works with data frames. 
+   
+   Purrr works with functions and vectors helping make your code easier to write and more expressive. 
+   
+   Stringr includes functions that make it easier to work with strings.
+
+   Forcats provides tools that solve common problems with factors. As a quick reminder, factors store categorical data in R where the data values are limited and
+   usually based on a finite group like country or year.
+   
+-> Factors store categorical data in R where the data values are limited and usually based on a finite group like country or year. 

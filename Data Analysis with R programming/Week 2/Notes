@@ -64,3 +64,13 @@
    usually based on a finite group like country or year.
    
 -> Factors store categorical data in R where the data values are limited and usually based on a finite group like country or year. 
+
+-> A pipe is a tool in R that helps make your code more efficient and easier to read and understand. As a quick reminder, a pipe is a tool in R for expressing a 
+   sequence of multiple operations. In other words, it takes the output of one statement and makes it the input of the next statement.
+   
+-> Nested describes code that performs a particular function and is contained within code that performs a broader function. 
+
+-> there's a couple of things to remember when using pipes. First, it's important to add the pipe operator at the end of each line of the piped operation, except 
+the last one. Another group rule of thumb is to check your code after you've programmed your pipe. Remember, RStudio automatically indents lines of code that are 
+part of a pipe. If a line in your code isn't indented, it probably hasn't been added to the pipe. That could lead to an error statement. Then you can revisit the 
+piped operation to check for parts of your code to fix.

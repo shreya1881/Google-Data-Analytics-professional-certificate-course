@@ -26,3 +26,13 @@
 -> To create a plot, follow these three steps: start with the ggplot function and choose a dataset to work with, add a geom_function to display your data, map the 
    variables you want to plot in the argument of the aes function. We can also turn our code into a reusable template for creating plots in ggplot2. To make a plot, 
    replace the bracketed sections in the code with a dataset, a geom_function, or a group of aesthetic mappings. 
+   
+-> Facet functions let you display smaller groups or subsets of your data. A facet is a side or section of an object, like the sides of a gemstone. Facets show
+   different sides of your data by placing each subset on its own plot. Faceting can help you discover new patterns in your data and focus on relationships between
+   different variables. For example, let's say you're looking at sales data for a clothing company. You might want to break down your data by category to show 
+   specific trends: children's clothing versus adult clothing, or spring fashions versus fall fashions. Or if you are running an employee engagement survey, you might 
+   want to break down your data by tenure and compare senior employees to new employees. Ggplot2 has two functions for faceting; Facet underscore wrap and facet
+   underscore grid. Let's explore them both. We will start with facet underscore wrap. To facet your plot by a single variable, use facet underscore wrap. Let's say
+   we wanted to focus on the data for each species of penguin. Take our plot that shows the relationship between body mass and flipper length in each penguin
+   species. The facet underscore wrap function lets us create a separate plot for each species. To add a new layer to our plot, we'll add a plus symbol to our code. 
+   Then inside the parentheses of the facet underscore wrap function, type a tilde symbol, followed by the name of the variable. 

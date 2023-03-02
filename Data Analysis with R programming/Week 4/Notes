@@ -1,1 +1,28 @@
+-> General-purpose packages like Plotly let you do a wide range of visualization functions. Others like RGL, focus on specific solutions like 3D visuals. Some of the
+   most popular include ggplot2, Plotly, Lattice, RGL, Dygraphs, Leaflet, Highcharter, Patchwork, gganimate and ggridges. 
 
+-> So ggplot2 has some basic building blocks that you can use to create plots. In other words when you learn the basic steps for creating a plot in ggplot2, you can 
+   reuse these steps to create lots of different kinds of plots. Plus, you can add or remove layers of detail to your plot without changing its basic structure or 
+   the underlying data. This makes ggplot2 really powerful. In the next video, we'll go over these steps one by one. Ggplot2 has lots of other benefits too. You can 
+   create all different types of plots including scatter plots, bar charts, line diagrams and tons more. You can change the colors, layout and dimensions of your 
+   plots and add text elements like titles, captions and labels. With just a little bit of code you can create high-quality visuals. Plus ggplot2 lets you combine 
+   data manipulation and visualization using the pipe operator. Ggplot2 also has tons of functions that cover all your data viz needs. To give you an idea, check out 
+   the ggplot2 cheat sheet, which is a popular reference guide. You can find out more about the ggplot2 cheat sheet in an upcoming reading.
+
+-> core concepts in ggplot2: aesthetics, geoms, facets, labels and annotations. These might be new concepts to you and that's okay. 
+
+-> In ggplot2 an aesthetic is a visual property of an object in your plot. For example, in a scatter plot aesthetics include things like the size, shape or color of 
+   your data points. Think of an aesthetic as a connection or mapping between a visual feature in your plot and a variable in your data. We'll talk more about mapping 
+   later on.
+   
+   A geom refers to the geometric object used to represent your data. For example, you can use points to create a scatter plot, bars to create a bar chart, or lines
+   to create a line diagram. You can choose a geom to fit the type of data you have. Points show the relationship between two quantitative variables. Bars show one 
+   quantitative variable varies across different categories. 
+   
+-> Facets let you display smaller groups or subsets of your data. With facets, you can create separate plots for all the variables in your dataset.
+
+-> Mapping means matching up a specific variable in your dataset with a specific aesthetic.
+
+-> To create a plot, follow these three steps: start with the ggplot function and choose a dataset to work with, add a geom_function to display your data, map the 
+   variables you want to plot in the argument of the aes function. We can also turn our code into a reusable template for creating plots in ggplot2. To make a plot, 
+   replace the bracketed sections in the code with a dataset, a geom_function, or a group of aesthetic mappings. 

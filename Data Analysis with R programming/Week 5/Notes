@@ -4,3 +4,7 @@
    
 -> HTML is the set of markup symbols and codes used to create a web page. R Markdown has the most available features for this format, but you can get good results 
    in any of the formats. 
+
+-> YAML is a language for data that translates it, so it's readable. Fun fact: YAML originally stood for yet another markup language. This section is called out 
+   using three dashes on the first and last lines. This syntax automatically creates the YAML header section when it's used in an RMD file. In an RMD file, this 
+   section's basically for metadata or the data about the data in the rest of the file.

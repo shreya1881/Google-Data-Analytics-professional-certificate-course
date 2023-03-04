@@ -38,3 +38,10 @@
    Then inside the parentheses of the facet underscore wrap function, type a tilde symbol, followed by the name of the variable. 
 
 -> Annotate means to add notes to a document or diagram to explain or comment upon it. 
+
+-> R Markdown is a file format for making dynamic documents with R. You can use an R Markdown file as a code notebook to save, organize, and document your analysis
+   using code chunks, comments, and other features. When you finish your data cleaning and exploration, you can create a report in R Markdown to summarize your 
+   findings for stakeholders.
+   
+-> HTML is the set of markup symbols and codes used to create a web page. R Markdown has the most available features for this format, but you can get good results 
+   in any of the formats. 

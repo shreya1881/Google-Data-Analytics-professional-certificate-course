@@ -1,1 +1,6 @@
-
+-> R Markdown is a file format for making dynamic documents with R. You can use an R Markdown file as a code notebook to save, organize, and document your analysis
+   using code chunks, comments, and other features. When you finish your data cleaning and exploration, you can create a report in R Markdown to summarize your 
+   findings for stakeholders.
+   
+-> HTML is the set of markup symbols and codes used to create a web page. R Markdown has the most available features for this format, but you can get good results 
+   in any of the formats. 

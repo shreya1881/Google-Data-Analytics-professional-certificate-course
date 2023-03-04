@@ -36,3 +36,5 @@
    we wanted to focus on the data for each species of penguin. Take our plot that shows the relationship between body mass and flipper length in each penguin
    species. The facet underscore wrap function lets us create a separate plot for each species. To add a new layer to our plot, we'll add a plus symbol to our code. 
    Then inside the parentheses of the facet underscore wrap function, type a tilde symbol, followed by the name of the variable. 
+
+-> Annotate means to add notes to a document or diagram to explain or comment upon it. 

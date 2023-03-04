@@ -8,3 +8,7 @@
 -> YAML is a language for data that translates it, so it's readable. Fun fact: YAML originally stood for yet another markup language. This section is called out 
    using three dashes on the first and last lines. This syntax automatically creates the YAML header section when it's used in an RMD file. In an RMD file, this 
    section's basically for metadata or the data about the data in the rest of the file.
+
+-> A delimiter is a character that indicates the beginning or end of a data item. You could also type these delimiters directly in the file. Three backticks, followed 
+   by an r in braces to begin the code chunk and three backticks to end it. Or you could use the keyboard shortcuts, Control plus Alt plus I on a PC or Chromebook,
+   and Command plus Option plus I on a Mac.
